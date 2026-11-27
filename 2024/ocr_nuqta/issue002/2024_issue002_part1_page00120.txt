@@ -1,0 +1,43 @@
+١٢٠ الجريدة الرسمية - العدد ٢ - ٢٠٢٤/١/١١
+جدول رقم 2: المنهاج الخاص بقرار الاعتراف ببرنامج (الآجلة الجامعية (بكالوريوس)) في "إدارة الأعمال" في كلية إدارة الأعمال في الجامعة الدولية في بيروت، في ما يخص الطلاب المتعلمين بهذا البرنامج في الاختصاص بالمذكور، ابتداء من العام الجامعي ٢٠٢٢-٢٠٢٤.
+
+المجموع من الوحدات التدريبية | المقرر بالعمدة | الفصل الدراسي(١) | المقررات الممهدة (Co) | ملاحظات
+اللغة | مجموع الأرصدة | الاسم | الرمز | عدد الأرصدة
+مواد اختبارية جزء تضمن متطلبات الجامعة | 6 | تجدها الجامعة بموجب لائحة رسمية معتمدة من صحت مواندها، وتودع نسخة عليها المدوية، لخدمة التعليم العالي في الشهر الأول من تاريخ نفاذ هذا القرار | ٢/٣ أرصدة في فصل الثالث ٢/٣ أرصدة في الفصل الخامس
+مواد عامة إجبارية تضمن متطلبات الجامعة | 15 | Arabic Language and Literature | ARAB 210 | 3 | ثلاث | ENGL 051
+Introduction to Computers | CSCI 200 | 3 | اثناو
+Introduction to Arab-Islamic Civilization | CILJ 200 | 3 | الجلس | ENGL 151
+Composition and Research Skills | ENGL 201 | 3 | الأول | ENGL 201
+Communication Skills | ENGL 251 | 3 | الثاني
+مواد إجبارية في الاختصاص | 48 | Business and Managerial Math | BMTH 210 | 3 | الأول | ENGL 051 MATH 100
+Introduction to Business Statistics | BSTA 303 | 3 | الأول | ENGL 051
+Financial Accounting | BACC 200 | 3 | الأول | ENGL 051
+Managerial Accounting | BACC 360 | 3 | الثاني | BACC 200
+Introduction to Microeconomics | BECO 210 | 3 | الثاني | BMTH 210
+Introduction to Macroeconomics | BECO 260 | 3 | الثالث | BMTH 210
+Financial Management | BFIN 300 | 3 | الثاني | BACC 200
+Introduction to Business Management | BMGT 260 | 3 | الأول | ENGL 151
+Introduction to Business Law | BMGT 360 | 3 | الرابع | BMGT 200
+Human Resource Management | BMGT 315 | 3 | الثالث | BMGT 200
+Organizational Behavior | BMGT 340 | 3 | الرابع | BMGT 200
+Research Methods for Business | BMGT 360 | 3 | الخمس | BMGT 200
+Business Ethics | BMGT 380 | 3 | الخمس | BMGT 200
+Management Information Systems | BMIS 300 | 3 | قائي | ENGL 151
+Marketing Theory and Principles | BMKT 300 | 3 | قائي | ENGL 151
+Global Strategic Management | IMGT 490 | 3 | الخمس | BMGT 200
+مواد إلزامية في تركيز: "إدارة عامة" | 24 | Decision Making Management | BMGT 370 | 3 | الرابع | BMGT 200
+Talenting and Development Management | BMGT 375 | 3 | قرايه | BMGT 200
+Innovation Management | BMGT 390 | 3 | الثالث | BMGT 200
+Total Quality Management | BMGT 470 | 3 | الخمس | BMGT 200
+Leadership Principles | BMGT 475 | 3 | الخمس | BMGT 200
+Managing Business Governance | BMGT 480 | 3 | الخمس | BMGT 200
+Management and Organization Theory | BMGT 495 | 3 | السادس | BMGT 370 BMGT 375 BMGT 390 BMGT 470 BMGT 475 BMGT 480
+Senior Project in Business Management | BMGT 493 | 3 | للنداكس
+International Business Communication | IMGT 300 | 3 | ثلاث | BMGT 200
+Advanced Human Resource Management | IMGT 350 | 3 | قرايه | BMGT 315
+مواد إلزامية في تركيز: "إدارة الأعمال الدولية" | 24 | Strategic Negotiations | IMGT 390 | 3 | قرايه | BMGT 200
+International Business Management | IMGT 420 | 5 | للخمس | BMGT 200
+International Business Operations | IMGT 450 | 3 | للشبي | BMGT 200
+International Leadership and Management | IMGT 460 | 3 | بالفص | BMGT 200
+Managing Entrepreneurship | IMGT 497 | 3 | السادس | BMGT 200
+Senior Project in International Business Management | IMGT 498 | 3 | السادس | IMGT 300 IMGT 350 IMGT 390 IMGT 430 IMGT 450 IMGT 460

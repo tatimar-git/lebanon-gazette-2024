@@ -1,0 +1,17 @@
+١٦٣٩ الجريدة الرسمية - العدد ٢٦ - ٢٠٢٤/٦/٢٧
+STANDARDS
+OCCUPATIONAL STANDARD
+
+ISCO-08-752 Wood treaters, wardrobe-makers, and related trades workers | Occupational Standard Wardrobes Making
+ISCO-08-7522 Wardrobe-makers and related workers
+EQF level - 3
+
+The occupation covers the process of fabricating wooden boxes and frames: cutting, fitting, joining, assembling, and finishing prepared wooden parts to make a wardrobe within the timeframe assigned while respecting health and safety regulations.
+
+Process | Element | Description
+P1 Process to make wardrobes | Output(s) | Wardrobes produced according to design and type of use.
+Process | S1: Setting up the working place • S2: Building wall to wall closet • S3: Installing accessories • S4: Housekeeping and reporting
+Sub-Process
+Activity
+Input(s) | Requirements and instructions for building a carcass cabinet to form a closet.
+Resources | Technical documentation (execution drawings, material selection, and data sheets) of design. • Tools and machinery for wood cutting, assembling, joining, and finishing. • Materials and consumables used for building the cabinet. • Personal Protective Equipment (heavy-duty working shoes) and first aid kit. • Cleaning kit (garbage bags, broom, basket, etc.).

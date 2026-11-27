@@ -1,0 +1,40 @@
+٢٩٥٦ الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+3. Time Based Continuous Recording
+3.1. Introduction
+The GeoStreamer acquisition system, in combination with the gAS recording system, employs time based continuous recording. This is designed to increase the efficiency of acquisition, recording and QC by decoupling the recording of the raw seismic sample data from the shot-event data, which is particularly important for modern acquisition survey methods such as triple source, CSI and eSeismic.
+Traditionally, the recording system has worked based on receiving shot event information from the navigation and gun controller systems, and then acquiring the appropriate seismic shot record in SEG-D format. This becomes very inefficient and complicated when acquisition survey design requires significant overlap between shot records, where the shot interval is much shorter than the record length. Instead, the process can be simplified by recording the seismic data and the shot-event header data separately, making the two completely asynchronous. As the seismic data are time stamped using GPS-derived time signals to microsecond accuracy, and the navigation header contains the shot event time to microsecond accuracy, the event time can be used subsequently to extract the appropriate shot record from the recorded time-based seismic dataset. In this way, a shot record for any start time and any record length, at any time after acquisition may be produced.
+Real-Time Recording
+Guns
+Navigation
+Cables
+Raw Data
+Header Collector
+Pinstripe
+Database
+GunNav Headers
+Critical Storage
+Seismic Data Collector Ring Buffer
+GPS PPS
+Continuous Time-scan Traces
+The traces to time-scan
+TDo
+Gun QC
+Bird QC
+Online Near Real Time QC
+Traces QC
+Near Real Time Shot Creation
+Shot Records
+Shared Memory Buffer
+Continuous Recording Data Flow
+Viper QC
+VDo
+Offline QC
+SPARK
+Continuous QC
+TRC
+HDR
+SPARK Disk
+Future Steps for QC
+Figure 2. Recording system data flow
+The seismic sample data is recorded whenever the system is 'live', so every sample is acquired all the time and it does not matter how often or when shot events occur. There is minimal overlap of the real time data within the recording system, which improves system throughput, and can allow for an increase in acquisition speed.
+Another benefit of continuous recording is the ability to image deeper targets. Long records also allow for improved noise removal and the application of signal processing algorithms with long filter lengths, targeting low frequencies. Many processing operators introduce edge effects when employed on time limited gathers, which can be entirely avoided when the same operators are used on a continuous

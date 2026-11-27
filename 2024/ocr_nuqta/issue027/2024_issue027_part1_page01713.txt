@@ -1,0 +1,47 @@
+الجريدة الرسمية - العدد ٢٧ - ٢٠٢٤/٧/٤
+١٧١٣
+المنهاج الخاص بقرار الاعتراف ببرنامج الإجازة الجامعية في "هندسة الميكاترونيك" (دبلوم مهندس) في كلية الهندسة في جامعة الحكمة، فيما خص الطلاب الملتحقين بهذا البرنامج في الاختصاص المذكور اعتباراً من العام الجامعي ٢٠١٧-٢٠١٨.
+
+المجموعات / الوحدات التدريسية | المقرر / المادة | الفصل الدراسي(1) | المقررات المهددة والمتزامنة (Co) | ملاحظات
+الاسم | الرمز | عدد الأسبوع
+مواد عامة إلزامية ضمن متطلبات الجامعة | 9 | Project Management | MGT 223 | 3 | الثامن
+Communication and Scientific Culture | EGN 216 | 3 | الثاني
+Writing Skills | ENG 200 | 1 | الثامن
+مواد عامة اختيارية ضمن متطلبات الجامعة | 9 | تختدها الخدمة بموجب لائحة رسمية معلنة من ضمن موادها، وتودع نسخة عنها لمديرية الخدمة للتعليم العالي في الشهر الأول من تاريخ نقذ قرار الاعتراف. | ٣/٢ لوصدة في الفصل السادس ٣/٢ لوصدة في الفصل السابع ٣/٢ لوصدة في الفصل التاسع
+مواد مشتركة إلزامية ضمن متطلبات الكلية | 20 | Engineering Economics and Financial Management | MGT 225 | 3 | الثامن
+Law and Ethics for Engineers | LAW 230 | 3 | الثامن
+Introduction to Computer and Software Tools | CSC 200 | 3 | الأول
+Computer Programming I - C++ | CSC 201 | 3 | الثاني
+Engineering Mechanics - Dynamics | PHY 200 | 3 | الأول
+General Physics Laboratory | PHY 202 | 1 | الأول | PHY 200
+43 | Electric Circuits | PHY 204 | 3 | الثاني
+Electric Circuits Laboratory | PHY 205 | 1 | الثاني
+General Chemistry I | CHM 200 | 3 | الأول
+General Chemistry I Laboratory | CHM 201 | 1 | الأول | CHM 200
+Calculus for Engineers I | MAT 201 | 3 | الأول
+Algebra for Engineers I | MAT 202 | 3 | الأول
+Calculus for Engineers II | MAT 211 | 3 | الثاني | MAT 201
+Algebra for Engineers II | MAT 212 | 3 | الثاني | MAT 202
+Probability and Statistics for Engineers | MAT 302 | 3 | الثالث | MAT 201
+Calculus for Engineers III | MAT 321 | 3 | الثالث | MAT 201
+Numerical Analysis | MAT 331 | 3 | الرابع | MAT 212
+43 | Srics | PHY 300 | 3 | الثالث | PHY 200 MAT 211
+Electrostatics and Electromagnetism | PHY 302 | 3 | الرابع | MAT 211 PHY 200
+Optics and Electromagnetism Laboratory | PHY 305 | 1 | الرابع | PHY 202 PHY 302
+Thermodynamics | PHY 340 | 3 | الخمس | CHM 200 MAT 201
+Electronics | ELE 300 | 3 | الثالث | PHY 204 PHY 205 ELE 300
+Electronics Laboratory | ELE 301 | 1 | الثالث | PHY 204 PHY 205 ELE 300
+Digital Electronics | ELE 402 | 3 | السادس | UTE 320
+Digital Electronics Laboratory | ELE 403 | 1 | الثامن | ELE 402
+Introduction to Mechatronics Engineering | MCE 200 | 2 | الثاني
+Computer Programming II - C++ | CSC 300 | 3 | الثالث | CSC 201
+Computer Programming - C++ Laboratory | CSC 301 | 1 | الثالث | CSC 201 CSC 300
+58 | Logic Design | CTE 320 | 3 | الرابع | CSC 201 PHY 204
+Signals and Systems Analysis and Processing | CTE 410 | 3 | الخامس | MAT 321 MCE 405
+MATLAB Application in Signals and Systems Analysis and Processing | CTE 411 | 1 | الخامس | CSC 201 CTE 410
+Microprocessors and Microcontrollers | CTE 510 | 3 | الخامس | ELE 402
+Microprocessors and Microcontrollers Laboratory | CTE 511 | 1 | الستين | CTE 510
+Digital Signal Processing | CTE 525 | 3 | الثامن | CTE 410
+Engineering Graphing | CTE 444 | 3 | الثامن
+Electric Power System | MCE 403 | 3 | الرابع | PHY 204
+Linear Control Systems | MCE 404 | 3 | الرابع | MAT 212 MAT 321

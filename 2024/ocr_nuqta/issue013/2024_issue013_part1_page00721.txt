@@ -1,0 +1,34 @@
+الجريدة الرسمية - العدد ١٣ - ٢٠٢٤/٣/٢٨
+٧٢١
+جدول رقم ٤: المنهاج الخاص بقرار تجديد الاعتراف ببرنامج الإجازة الجامعية (بكالوريوس) في "الترجمة واللغات" في كلية الأديان والعلوم الإنسانية في جامعة المعارف، في ما خصّ الطلاب المنسبين إلى السنة الأولى من هذا البرنامج في الاختصاص المذكور، اعتباراً من العام الجامعي ٢٠٢٣-٢٠٢٤.
+
+المجموعات/الوحدات الدراسية | المقرر/المادة | عدد الأرصدة | الفصل الدراسي(أ) | المقررات الممهدة والمترامة (Co) | ملاحظات
+الاسم | رمز | الأرصدة
+مواد عامة إلزامية ضمن متطلبات الجامعة | مجموع الأرصدة 21 | Business Software Applications | MIT 200 | 3 | الأول
+English Communication Skills I | ENG 201 | 3 | الأول
+English Communication Skills II | ENG 202 | 3 | الثاني
+English for Translation | ENG 220 | 3 | الثاني
+Cultural Studies | CST 200 | 3 | الأول
+Arabic Communication Skills I | ARB 201 | 3 | الأول
+Arabic Communication Skills II | ARB 202 | 3 | الثاني | ARB 201
+مواد إلزامية في الاختصاص | 63 | Technical Writing in Arabic (A) | ARB 260 | 3 | ثالث | ARB 201
+Technical Writing in English (B) | ENG 260 | 3 | ثالث | ENG 201
+Technical Writing in French (C) | FRN 260 | 3 | ثالث | FRN 100
+History of Translation | TRL 200 | 3 | الثاني | ENG 201
+Lexicology and Terminology for Translation | TRL 240 | 3 | ثالث | ENG 201 MIT 200
+Computer Tools and Applications for Translation | TRL 300 | 3 | الثالث | ENG 201 MIT 200
+Theory and Practice for B-A Translation | TRL 320 | 3 | الرابع | ARB 260 ENG 260
+Theory and Practice for A-B Translation | TRL 330 | 3 | الرابع | ARB 260 ENG 260
+Theory and Practice for C-A Translation | TRL 340 | 3 | الرابع | ARB 260 FRN 260
+Theory and Practice for A-C Translation | TRL 350 | 3 | الرابع | ARB 260 FRN 260
+Linguistics for Translation | TRL 360 | 3 | الثالث | ENG 201
+Media and Audiovisual Translation (B-A/A-B) | TRL 370 | 3 | الخامس | TRL 320 TRL 330
+Political Translation (B-A/A-B) | TRL 380 | 3 | الخامس | TRL 320 TRL 330
+Economic and Financial Translation (B-A/A-B) | TRL 390 | 3 | الخامس | TRL 320 TRL 330
+Legal and Official Translation (B-A/A-B) | TRL 400 | 3 | الخامس | TRL 320 TRL 330
+Scientific and Medical Translation (B-A/A-B) | TRL 420 | 3 | الخامس | TRL 320 TRL 330
+Religious and Literary Translation (B-A/A-B) | TRL 430 | 3 | السادس | TRL 320 TRL 330
+Proofreading and Editing for B-A/A-B | TRL 440 | 3 | السادس | TRL 320 TRL 330
+Proofreading and Editing for C-A/A-C | TRL 450 | 3 | السادس | TRL 340 TRL 350
+Translation Practicum | TRL 497 | 3 | السادس
+Senior Study | TRL 499 | 3 | السادس

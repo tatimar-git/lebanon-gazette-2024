@@ -1,0 +1,41 @@
+الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+٢٩٦٣
+be equipped with Nucleus+, TGS' software of choice for modelling source signatures and dropout criteria.
+5.2. System Hardware and Configuration
+The gAS, Viper and SPArk systems run on a variety of hardware, currently all systems run on Intel PCs running CENTOS Linux. Vessels will be equipped with hardware listed below or newer:
+On-line QC
+gAS Equipment:
+2 x Dell PowerEdge R740 nodes (collector & spare collector)
+2 x Dell PowerEdge R740 series nodes (main and slave QC)
+Messaging and Database:
+3 X Dell PowerEdge R740 CIRM nodes where CIRM1 and CIRM2 are used for the main and backup database and CIRM2 and 3 are used for the main and backup messaging system.
+Tape drives:
+4 x IBM 3592 EO7 TS1140VTS1150 (1 TB capacity JC media)
+Raid Disk:
+Infortrend EonStor Fibre disk, minimum 66TB capacity
+Off-line QC
+Viper Equipment:
+(Shared) Tape drives:
+Raid Disk:
+QC Visualisation System
+holoSeis™ Equipment:
+4 x Dell PowerEdge R630 nodes (3 plus 1 spare)
+8 x IBM 3592 EO7 TS1140/TS1150 (4 TB capacity JC media)
+Infortrend EconStor Fibre disk, minimum 66TB capacity
+3 x Lenovo 'Tiny workstation' visualization nodes, Infortrend EconStor Fibre disk, minimum 33TB capacity
+Spark Processing System
+Spark Equipment:
+(Shared) Tape drives:
+Raid Disk:
+17 x SuperMicro X10 GPU Servers [2 x nvidia K80, 64GB RAM]
+40 x Dell PowerEdge R640 (2 x Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz, 96GB RAM]
+8 x IBM 3592 EO7 TS1140/TS1150 (4 TB capacity JC media)
+External Disk: Panasas ASH-100 Storage Capacity: 561TB
+5.3. Standard Real Time QC
+The recording and QC system gAS is used to provide real time QC displays for the observers and the geophysicists to monitor on-line covering all required aspects of QC. All on-line and near real time QC in gAS is carried out after matching the vertical velocity geosensor response to the hydrophone and the application of a low-cut filter to restrict the data to the bandwidth of interest. A 3-6-90-120 Hz band-pass filter is applied to the hydrophone data.
+The quality control products will include, but not necessarily be limited to, the following:
+■ Shot gather window display for each shot point for every streamer for the hydrophone and geosensor channels (Figure 8).
+■ Noise anomaly display, used to highlight major differences from shot to shot, ideal for observing source problems such as auto-fires, or external noise such as seismic interference or ship noise, from a chosen streamer (Figure 9).
+■ Single trace display of a near offset channel from a chosen streamer (Figure 9).
+■ Single trace display of time-break – with skew correction applied to show accurate system timing from shot to shot (Figure 9).
+■ Ambient RMS noise windows, showing data from all streamers to highlight sources of noise. The shallow (water column) window is normally shown first due to contamination of deep noise window by multiple/reverberant energy (hydrophone channels only) (Figure 10).

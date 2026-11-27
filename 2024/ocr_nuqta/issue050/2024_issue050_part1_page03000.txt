@@ -1,0 +1,35 @@
+٣٠٠٠ الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+
+WELL LOGS Key inputs for the GWLA (Geophysical Wireline Log Analysis) process. Log coverage must include main zone of interest. 1. CRISPECTRAL GR, SP 2. CALI, BS 3. Deep Medium and Shallow Horizontal Resistivities
+
+4. Vertical Resistivity (if acquired)
+5. Bulk Density
+6. Neutron
+7. Vp, Vs, Cross-Dipole
+8. PEF
+9. QC plots of sonic data
+10. CPI logs (if available)
+11. Tension
+CORE DATA (if available)
+This information can be used to calibrate the petrophysical model and assist the Rock Physics
+Diagnostics and Modelling.
+12. Depth Ranges.
+13. Porosity and Permeability.
+14. Bulk and Grain Density.
+15. Mineral Composition [e.g. XRD, XRF].
+16. Saturations and formation factor coefficients if available (a, m, n)
+17. Core Logs (e.g. Core Gamma).
+18. Triaxial Test: Strength, Young Modulus and Poisson's ratio.
+19. Pressure dependent velocities (compressional and shear) and porosity from core measurements.
+20. Thin sections, SEM images.
+21. FMI Interpretation: Fracture density/orientation layering.
+BOREHOLE INFORMATION and FLUID PROPERTIES
+Basic input data used within the petrophysical model and rock physics analyses.
+22. Pressure and temperature gradients in main formations. Include MDT, PVT data if available.
+23. Deviation Survey
+24. Casing Shoe Depths, and Drilling Mud information
+25. Completion and Mud Log Reports
+26. Cutting Descriptions
+27. Water Tests (at temperature it was measured), salinity information
+28. Specific gas gravity
+29. Oil API gravity

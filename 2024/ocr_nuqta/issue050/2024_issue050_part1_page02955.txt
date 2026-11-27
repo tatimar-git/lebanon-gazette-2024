@@ -1,0 +1,66 @@
+الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+٢٩٥٥
+2. System Timing
+Figure 1 illustrates the timing diagram for the GeoStreamer acquisition system with a SourceLink gun controller. The first SP of the line is preceded by a Set Linename (SL) and Begin Line (BL) data command from Orca to SourceLink. SL defines the linename and logs in SourceLink and BL sets SourceLink into shooting and external mode. The shot cycle is initiated within the Orca INS by a process which continually updates the time at which the next shot will occur, the SHOT-PREDICT time (i.e., the prediction of the next TZERO or Timezero +dither for Inple source). A trigger is issued at -50ms (GunStart) to the SourceLink gun controller which initiates the gun firing sequence. At the end of the firing cycle the SourceLink controller issues the TIMEBREAK which is received by Orca. At the LSP of the line an EL (End of Line) data command is sent by Orca to SourceLink. EL sets SourceLink offline which prevents guns being fired if any further closures are received. The seismic data is recorded continuously at 1000ms samples using 1PPS from the Real Time Navigation Unit PRTNU to synchronize the timing between navigation and recording system.
+Navigational Timing / SourceLink Timing
+SourceLink pre message (+1200ms Ref T2)
+From Clock to SourceLink gun controller prior to every shot.
+Contains GPS Location in feet, & GPS Height in feet.
+TO-1 (FC) Gun Start (-50ms Ref T2+delta)
+Triggers armed from Clock to SourceLink gun controller to initiate gun firing sequence. The T2 delta pulse width is clearly shown as being triggered by the horizontal line sweeping on the oscilloscope image.
+Guns Fired. (0ms Ref T2+delta)
+TI-1 (TB), ПИБЕВРЯК. (0ms Ref T2+delta)
+Motion from SourceLink to Clock received when the guns have fired - Duration Time.
+TO-2 (NavTB), Active high at 0ms Ref T2
+Trigger to synchronize or continue timing in Clock.
+Duration: 0ms.
+TO-1 (DithOC), Active high at (+1500ms Ref T2)
+Signal to GC gun firing when Dither is used - Duration Time.
+Only used during Dither surveys for tracking.
+Dither: max 750ms with max 50ms shot rate (00 ms constant between shots.
+Time-based Continuous Recording
+1PPS from TET, ARTM to Master Sync
+1PPS from ARTM to GPS Transceiver (LP
+Duration: 200ms.
+CTR - Confirmation from Master Sync to gAS
+Duration: 7ms.
+On demand basis using 1 PPS from TET, ARTM.
+1PPs from Synthesizer Unit to gAS
+Duration: 25us.
+1PPS read from Synthesizer to gAS.
+Legend.
+Output from Clock
+Input to Clock
+Data Output from Clock
+Input to Clock Source
+gAS Aux ch 2
+Scope Chan
+gAS Aux ch 3
+Source Chan
+gAS Aux ch 5
+Source Chan
+First Shot Date (PPS + 50.2ms).
+GPS Static GPS Location received by gAS
+Description of Navigational and SourceLink
+- The final GPS fix of the line is provided by the SL (GPS L1/L2) & EL (Ephemeris) & GL (Doppler Link) Data contained within the GPS to SourceLink & SL, which log the timestamp and GPS to SourceLink. SL uses SourceLink into a data file for further analysis.
+- The main cycle is initiated within the Clock (TS) by a command which continuously updates the time at which the shot was fired and output the GPS (L1/L2) & EL (Ephemeris) fix at the precise time of the event (T2) to the telemetry receiver for further analysis.
+- A trigger is issued at (Start Count/Start) to the SourceLink gun controller which initiates the gun firing sequence.
+- At the end of the firing cycle, the SourceLink controller adapts the TET, ARTM fixer as requested by Clock.
+- At the end of the firing cycle, a log of any data commands to send by Clock to SourceLink (EL fix, Synthesizer fix) are included in the telemetry data stream being logged for further analysis.
+- Generation of Events for the Time-based Continuous Recording.
+- The precise data is recorded continuously at 100ms intervals using 1PPS from the Real Time Navigation Unit (RTM U) to synchronize the timing between navigation and recording systems.
+GPS Monitoring
+GPS monitoring of timing is accomplished by comparing the ARTM time signal with the pulses of triggers below including 1PPS from the synthesizer 1PPS timing units.
+TET, ARTM vs. T2, SL
+expected difference = 50 ms
+TET, ARTM vs. TET, [E] Trigger
+expected difference = 0 ms
+1PPS ARTM vs. T2, Source Link
+expected difference = 50ms
+1PPS ARTM vs. 1PPS Source Time Unit
+expected difference < 100us
+The total system tolerance should never exceed 500us.
+Data file: SourceLink, timestamp_2008, shot 01
+Timestamp unit: seconds as difference between two consecutive events in ARTM.
+Trigger signal: ARTM to SL (Ephemeris) signal. Minimum difference in ARTM: 100 ms (500us) (Dither) then nominal. Not specific to any GPS numbering.
+Figure 1: An illustration of a typical system timing diagram for the GeoStreamer acquisition system with SourcLink gun controller.

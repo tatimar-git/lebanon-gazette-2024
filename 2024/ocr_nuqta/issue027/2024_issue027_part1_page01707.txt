@@ -1,0 +1,49 @@
+الجريدة الرسمية - العدد ٢٧ - ٢٠٢٤/٧/٤
+١٧٠٧
+للنهاج الخاص بقرار الاعتراف ببرنامج الإجازة الجامعية في "الهندسة الكيميائية" (دبلوم مهندس) في كلية الهندسة في جامعة الحكمة، فيما خص الطلاب الملتحقين بهذا البرنامج في الاختصاص المذكور اعتباراً من العام الجامعي ٢٠١٧-٢٠١٨.
+
+الفئة | مجموع الأرصدة | المقرر / المادة | الفصل الدراسي(أ) | المقررات المهددة (C) والمتزامنة (Co) | ملاحظات
+الاسم | الرمز | عدد الأرصدة
+مواد عامة إلزامية ضمن متطلبات الجامعة | 9 | Project Management | MGT 223 | 3 | الخمس
+Communication and Scientific Culture | EGN 216 | 3 | الثاني
+Writing Skills | ENG 200 | 3 | الثالث
+مواد عامة اختيارية ضمن متطلبات الجامعة | 9 | تحددها الجامعة بموجب لائحة رسمية مطلقة من ضمن موادها، وتودع نسخة عليها المديرية العامة للتعليم العالي في الشهر الأول من تاريخ نفاذ قرار الاعتراف. | ١٢/١ أرصدة في الفصل السادس ١٢/١ أرصدة في الفصل السابع ١٢/١ أرصدة في الفصل التاسع
+مواد مشتركة إلزامية ضمن متطلبات الكلية | 20 | Engineering Economics and Financial Management | MGT 225 | 3 | الثامن
+Law and Ethics for Engineers | LAW 230 | 2 | الثامن
+Introduction to Computer and Software Tools | CSC 200 | 3 | الأول
+Computer Programming I - C++ | CSC 201 | 3 | الثاني
+Engineering Mechanics - Dynamics | PHY 200 | 3 | الأول
+General Physics Laboratory | PHY 202 | 1 | الأول | PHY 200
+Electric Circuits | PHY 204 | 3 | الثاني
+Electric Circuits Laboratory | PHY 205 | 1 | الثاني
+General Chemistry I | CHM 200 | 3 | الأول
+مواد أساسية في الرياضيات والعلوم يستلزمها الاختصاص | 39 | General Chemistry I Laboratory | CHM 201 | 1 | الأول | CHM 200
+General Chemistry II | CHM 202 | 3 | الرابع | CHM 200
+Organic Chemistry | CHM 300 | 3 | الثالث | CHM 200
+Organic Chemistry Laboratory | CHM 301 | 1 | الثالث | CHM 201 CHM 300
+Applied Organic Chemistry | CHM 403 | 3 | الخامس | CHM 300
+Applied Organic Chemistry Laboratory | CHM 404 | 1 | السادس | CHM 301 CHM 403
+Calculus for Engineers I | MAT 201 | 3 | الأول
+Algebra for Engineers I | MAT 202 | 3 | الأول
+Calculus for Engineers II | MAT 211 | 3 | الثاني | MAT 201
+Algebra for Engineers II | MAT 212 | 3 | الثاني | MAT 202
+Probability and Statistics for Engineers | MAT 302 | 3 | الثالث | MAT 201
+مواد هندسية إلزامية في الاختصاص | 62 | Calculus for Engineers III | MAT 321 | 3 | الثالث | MAT 201
+Numerical Analysis | MAT 331 | 3 | الرابع | MAT 212
+Thermodynamics | PHY 340 | 3 | الثالث | CHM 200 MAT 201
+Introduction to Chemical Engineering | CME 200 | 2 | الثاني
+Materials Science | CME 301 | 3 | الخامس | CHM 202
+Principles of Chemical and Biofood Engineering | CME 302 | 3 | الرابع | CHM 200
+Physical Chemistry - Spectroscopy | CME 303 | 3 | الرابع | CHM 200
+Chemical Engineering Kinetics and Reactor Design | CME 334 | 3 | الرابع | CHM 203 MAT 201
+Chemical Engineering Thermodynamics | CME 400 | 3 | الخامس | PHY 340 MAT 211
+Safety and Environment in Chemical Industry | CME 402 | 3 | السادس | CME 302
+Mass Transfer in Chemical Engineering | CME 420 | 3 | الخميس | CME 440
+Energy and Heat Transfer | CME 440 | 3 | الربع | PHY 340
+Fluid and Thermal Laboratory | CME 441 | 1 | التاسع | MCE 410 CME 440
+Process Engineering Laboratory | CME 502 | 1 | الثامن | CME 420 CME 510
+Unit Operations in Chemical Engineering | CME 510 | 3 | السابع | CME 420 CME 530
+Unit Operations in Chemical Engineering Lab | CME 511 | 1 | الثامن | CME 510
+Separative and Spectroscopic Analysis | CME 520 | 3 | التاسع | CME 303
+Chemical Reaction Engineering | CME 530 | 3 | السابع | CME 334
+Formulation Chemistry I | CME 540 | 3 | السابع | CHM 403

@@ -1,0 +1,39 @@
+٩٢٠ الجريدة الرسمية - العدد ١٨ - ٢٠٢٤/٥/٢
+
+416 | transport respirator | NR | 5
+417 | AED | NR | 5
+418 | portable monitor | NR | 5
+419 | oxygen generator | NR | 5
+420 | vacuum system | NR | 5
+421 | Air compressor | NR | 5
+423 | ANGIOGRAPHY SYSTEM, SINGLE PLANE | NR | 1
+424 | CARDIO-VASCULAR SYSTEM, SINGLE PLANE | NR | 1
+425 | INJECTORS, CONTRAST MEDIA, ANGIOGRAPHY | NR | 2
+426 | SCANNERS, ULTRASONIC, 4D | NR | 1
+427 | SCANNERS, ULTRASONIC, CARDIAC | NR | 1
+428 | SCANNERS, ULTRASONIC, PORTABLE | NR | 3
+429 | SCANNERS, ULTRASONIC OB-GYN | NR | 1
+430 | WORKSTATION | NR | 1
+431 | RADIOGRAPHIC/FLUOROS.UNITS, MOBILE | NR | 1
+432 | C-Arm | NR | 1
+433 | RADIOGRAPHIC UNITS, MOBILE | NR | 1
+434 | PET Scan 64s | NR | 1
+435 | SPECT CAMERA | NR | 1
+423 | ANGIOGRAPHY SYSTEM, SINGLE PLANE | NR | 1
+424 | True Beam radiotherapy machine | NR | 1
+425 | Bobath bed (1 pieces): Dimension: 200cm x 140 cm | NR | 2
+426 | wall bars: Dimension: (85 x 230 x 10 cm) | NR | 2
+427 | Tilt Tables for Static Exercises Dimension: 200*60 cm | NR | 2
+428 | standing frames for spinal cord injury | NR | 2
+429 | Ergometer with back support for disability person Dimension: 65"L x 30"W (155 x 76 cm) | NR | 2
+430 | Upper body ergometer: Dimension (165cm x 75cm) | NR | 2
+431 | Unweighing System Restore functional mobility Dimensions: - I.D.: 38.8" w x 48" depth x 94" h (99 x 122 x 239 cm) O.D.: 47.5" w x 48" depth x 94" h (121 x 122 x 239 cm) | NR | 2
+432 | Treadmill Dimension proximately (2 pieces one for elderly one for sport) Footprint :79" L x 31.5" W x 62" H / 200.6 cm x 80.01 cm x 157.4 cm | NR | 2
+433 | Platform with 2 corner staircases Dimension :250 x 250 cm | NR | 2
+434 | Rehabilitation Parallel Bars Dimension : 2 to 2.5m x 70-75 cm | NR | 2
+435 | Pulley therapy for upper and lower limbs | NR | 2
+436 | Muscular strengthening machines: A-Press B-LEG EXTENSION/LEGCURL C-ABDUCTION / ADDUCTION | NR | 2
+437 | Bicycle exercises | NR | 2
+438 | Neurac method with Bed | NR | 2
+439 | Balance System™ 5D for athletes to older adults | NR | 2
+440 | hand and finger exercise accessories with Table | NR | 2

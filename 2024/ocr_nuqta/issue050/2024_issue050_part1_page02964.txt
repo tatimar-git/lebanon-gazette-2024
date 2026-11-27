@@ -1,0 +1,21 @@
+الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+٢٩٦٤
+■ Shot average of signal windows (hydrophone channels only) (Figure 11)
+■ Streamer depth stability and data recording errors are displayed in an instrument analysis window. This highlights gun errors such as misfires, auto-fires, internal time breaks and recording problems such as parity errors as well as showing depth stability (Figure 11).
+■ Layered displays – port/starboard – of the auxiliary channels over the first 200 ms of data to investigate any possible source problems, including air-leaks, pressure problems or gun arrays at the incorrect depth (Figure 12).
+■ Stacked displays – port/starboard – of the auxiliary channels over full record length to investigate any possible source problems, including auto-fires (Figure 13).
+■ FFT de-convolution analysis of the auxiliary traces for additional air-leak indication and CC (Figure 13).
+■ Streamer tension, source depths, volume and pressure (Figure 14).
+■ Shot to shot comparison windows for two signal windows used to confirm source accuracy and consistency, highlighting air-leaks and geometry problems. However, this may be susceptible to geological effects (Figure 14).
+■ PET (P-UP Estimation Tool) displays showing the relationship between the amount of noise affecting the velocity sensors, the water speed, and the production LFC by evaluation of the P-UP product (Figure 15).
+■ Automatically updating shot-by-shot text information highlighting any data outside of job specifications or unexpected changes in data. This information is also used as the basis for the observer/seismic log. Manual adjustments and changes are also input to highlight e.g., ship noise (Figure 16).
+5.4. Standard Near Real Time QC
+The Viper QC system is utilized for near real time QC processing during and at the end of the line. Problems that occurred during acquisition may be investigated using all means available. At the end of each line, the core QC products described below are produced and reviewed on screen. This will include, but not necessarily be limited to, the following:
+■ Noise record displays for beginning and end of line for the hydrophones and geosensor channels in both the shot domain to identify noisy or spiky channels as well as external noise.
+■ Raw shot displays for every 41st shot cycling through all streamers for the hydrophone and geosensor channels to determine the impact of swell/ship noise/seismic interference on the raw data, as well as a guide to identifying and classifying unacceptable channels and for an overview of the raw data quality (Figure 17).
+■ Shot display for all streamers, at a minimum a display showing one shot at the beginning of the line followed by one shot at the end of the line for the hydrophone and geosensor channels
+■ Displays for RMS ambient noise and signal displays for the hydrophone and geosensor channels. Noisy shots and recording errors are easily identified as well as quantification of external noise such as ship noise or seismic interference. (Figure 18).
+■ Displays for RMS before and after various noise attenuation for both hydrophone and geosensor channels (Figure 18).
+■ Shot average/channel average graphs of the hydrophone and geosensor channels to help isolate problems in conjunction with the RMS displays.
+■ Front and tail end noise RMS statistics (Figure 19).
+■ F-K analyses: Done on start-up of survey and as required; usually if there are any problems

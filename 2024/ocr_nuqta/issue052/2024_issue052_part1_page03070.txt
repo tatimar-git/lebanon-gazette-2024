@@ -1,0 +1,16 @@
+[ترويسة الصفحة حسب بيانات الموقع الرسمي: العدد ٥٢ - ٢٠٢٤/١٢/٢٦ - الصفحة ٣٠٧٠]
+LOAD LIST Incl. Value - Shipment 7 - EX OR
+
+Item's Ref | Num | Quan | Content/Item | Length | Width | Height | UOM | Weight | UOM | buward | UKD Value | Exi Value
+LBN001 | 6 | 6 | Code T11 - Tank Kit, Steel with Roof & Linef - 11m³ - code 73090030 | 153 | 61 | 86 | cms | 316.00 | kgs | 1896 | £1'967.00 | £11'802.00
+LBN001 | 11 | 6 | Code O1 - Ladder - code 73269030 | 252 | 41 | 13 | cms | 10.00 | kgs | 60 | £120.89 | £725.34
+LBN001 | 12 | 3 | Code OT - Scaffolding Tower - code 73084000 [غير مؤكد] | 222 | 109 | 53 | cms | 108.00 | kgs | 324 | £730.26 | £2'190.78
+LBN001 | 14 | 2 | Code FASD - Chemical Dosing Kit, Suction Side - code 84137021 | 57 | 57 | 109 | cms | 59.00 | kgs | 118 | £1'362.91 | £2'725.82
+LBN001 | 33 | 2 | Code P4 - Pump Kit, Surface Water, 4" - Diesel Engine - code 84137021 | 158 | 11.. | 135 | cms | 531.00 | kgs | 1062 | £8'810.00 | £17'620.00
+LBN001 | 34 | 2 | Code PD - Oil, for Pumps/Diesel Engines - code 84137021 | 62 | 57 | 70 | cms | 73.00 | kgs | 146 | £332.95 | £665.90
+LBN001 | 37 | 3 | Code OPI - Safety Wear kit, Personal Protective Equipment - code 64019210 | 93 | 94 | 99 | cms | 162.00 | kgs | 486 | £485.25 | £1'455.75
+LBN001 | 40 | 1 | Mixed Pallet Containing: 5 x Code DA - Fittings Kit, Distribution Adaptation - code 73071910 5 x Code TF - Fittings Kit, Tank - code 74122000 | 120 | 102 | 165 | cms | 315.00 | kgs | 315 | £7'711.95
+LBN001 | 41 | 1 | Pallet containing: 20 x Code DS - Tapstand Kit - code 84818019 | 120 | 104 | 110 | cms | 590.00 | kgs | 590 | £219.07 | £4'381.40
+LBN001 | 43 | 1 | Pallet containing: 5 x Code DF3 - Fittings Kit, Distribution 90mm - code 73071910 | 120 | 102 | 180 | cms | 325.00 | kgs | 325 | £875.00 | £4'375.00
+LBN001 | 44 | 1 | Mixed pallet containing: 5 x Code DL2 - Hose Kit, Layflat, 2", PVC - code 40091200 4 x Code DP32C - Pipe, PE - 50m Coil, 32mm Dia - code 39172110 | 120 | 105 | 135 | cms | 320.00 | kgs | 320 | £1'505.29
+LBN001 | 45 | 1 | Mixed pallet containing: 6 x Code G21S Hose, Flexible Reinforced - Coil 30m, 2 inch - code 39173100 10 x Code TABS - Anchor Bolt Kit, Steel Tanks - code 72071190 | 120 | 85 | 185 | cms | 210.00 | kgs | 210 | £1'610.48

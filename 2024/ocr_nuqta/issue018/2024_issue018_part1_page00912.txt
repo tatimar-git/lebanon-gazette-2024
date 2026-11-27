@@ -1,0 +1,44 @@
+٩١٢ الجريدة الرسمية - العدد ١٨ - ٢٠٢٤/٥/٢
+
+80 | VITAL SIGNS MONITORS W/O Stand | NR | 20
+81 | VITAL SIGNS MONITORS WITH Stand | NR | 30
+82 | VITAL SIGNS MONITORS, MRI COMPATIBLE | NR | 1
+83 | PULMONARY FUNCTION ANALYZER | NR | 1
+84 | PHYSIO. MONITOR SYS., CARD. STRESS/TREADMILL | NR | 1
+85 | LASERS, HOLMIUM:YAG SURGICAL | NR | 1
+86 | WARMING UNIT, AIR FORCED | NR | 20
+87 | ULTRASONIC CUTTING AND COAGULATION HARMONIC SCALPEL | NR | 1
+88 | ENDOSCOPES, VIDEO SYSTEM, PENDANT MOUNTED | NR | 5
+89 | OPHTHALMIC, EXAMINATION/TREATMENT STANDS | NR | 1
+90 | DIODE LASER, VASCULAR & PIGMENT TREATMENT | NR | 1
+91 | ELECTROSURGICAL UNITS, MONO/BIPOLAR,300W | NR | 10
+92 | INTEGRATED CONTROL SYSTEM ,OPERATING THEATRE ONE WAY | NR | 10
+93 | INTEGRATED CONTROL SYSTEM ,OPERATING THAETRE TWO WAY | NR | 10
+94 | PANELS, INSTRUMENT, WITH INTEGRATED-WITH DIAGNOSTIC SET | NR | 70
+95 | NAVIGATION SYSTEM, ELECTROPHYSIOLOGY | NR | 1
+96 | DRILL SYSTEM,ORTHO | NR | 5
+97 | DRILL SYSTEM,NEURO | NR | 5
+98 | Biometry system | NR | 1
+99 | Field Analysar | NR | 1
+100 | Digital Phoropter | NR | 1
+101 | Chart Screen | NR | 1
+102 | Phaco machine WITH POSTERIOR SURGERY | NR | 1
+103 | Diagnostic Cystoscopy | NR | 1
+104 | Therapeutic Cystoscopy | NR | 2
+105 | Resectoscopy | NR | 2
+106 | Hysteroscopy | NR | 2
+107 | Hysteroscopy Resectoscopy | NR | 2
+108 | Arthroscopy | NR | 2
+109 | Arthroscopy SURGICAL instruments | NR | 2
+110 | Hand Instruments | NR | 2
+111 | Trocars | NR | 5
+112 | ENT Microscope | NR | 1
+113 | ENT Microscope surgical | NR | 1
+114 | Rhinolaryngoscopy | NR | 1
+115 | Nerve monitoring system | NR | 1
+116 | ENT drill system | NR | 1
+117 | Patient transport | NR | 5
+118 | Scale | NR | 2
+119 | Chair , Visitor | NR | 500
+120 | Chair , Visitor ,PSYCHIATRIC rooms | NR | 200
+121 | CENTRIFUGE, GENERAL PURPOSE | NR | 10

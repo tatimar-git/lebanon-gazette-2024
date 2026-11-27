@@ -1,0 +1,52 @@
+الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+٣٠٠٢
+Application Fee Confirmation of Payment
+image here
+Details
+Available payment details:
+Payer
+From account
+Account name
+Account owner
+Address
+Beneficiary
+To account: LB68699300000001002700361954 [غير مؤكد، قراءة أخرى: 6869930000001002700351954]
+Name: MINISTRY OF FINANCE LHS USD
+Address: MARFA 200
+XXX
+BEIRUT
+Country: LEBANON
+Payment details
+
+Bank's ref: | U20003 | Ordered amount: | USD 20,000.00
+Payment method: | Standard | Debit amount:
+Date of receipt: | 2024/11/28 | Transfer currency: | USD
+Payment date: | 2024/11/28 | Estimated amount: | USD 20,000.00
+Booked date: | Indicative rate:
+Debit val date:
+Charges paid by: | Sender | Received payment date: | 2024/11/28
+Credit val date:
+Own reference: | 2024 11 28 191831 | Payment type: | International
+End to end reference: | 2024 11 28 191831
+
+Info to beneficiary
+Beneficiary's bank
+Name:
+Address:
+Country: LEBANON
+BIC: BDCLBBXDXD
+Bank code:
+Charges beneficiary bank:
+Other information
+Status Processing
+Registered by P6235291 DFG PartnerID (2024/11/28 11:54:03 AM)
+1 authorisation by TB66944 Adamsa S Nije (2024/11/28 11:54:38 AM)
+2 authorisation by: CX40955 Silja Lundstrom Olsen (2024/11/28 12:20:55 PM)
+Changed by: CX40955 Silja Lundstrom Olsen (2024/11/28 12:20:46 PM)
+Underlying invoice specifications:
+
+Serial no. | Debt/Cred. | Text/KID/Cr.Acc. | Status | Ref. amount
+1 | D | LCINY/2024 11 28/20000/201 28 11 24 | 20,000.00
+2 | K | 1
+
+Printed: ADAMA S NJIE 2024/11/28 12:22:39 PM

@@ -1,0 +1,76 @@
+الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+٢٩٥٩
+Synthetic shot record with overlapping shot using Nucleus+
+Time (s)
+Shallow target reflector
+Deep target reflector
+Possible source rock reflector
+New shot arrival - overlap
+Synthetic shot record at time zero using Nucleus+
+Time (s)
+0
+1
+2
+Shallow target reflector
+3
+Deep target reflector
+4
+5
+6
+7
+Possible source rock reflector
+8
+9
+Figure 6: Synthetic shot record at time zero (left) and synthetic shot record with overlapping shot (right) modeled using Nucleus+.
+4. Instrument Tests
+This section describes the instrument tests that can be performed by the GeoStreamer system. A simplified diagram of the system front-end is shown in Figure 7.
+SOUR
+
+Input C
+
+1.0م
+
+الوجه القيمة
+
+
+النفقات التشغيلية 1,000,000 [غير مؤكد]
+النفقات الرأسمالية 500,000 [غير مؤكد]
+الخصم (100,000 [غير مؤكد])
+صافي التكاليف 1,400,000 [غير مؤكد]
+الإيرادات 1,500,000 [غير مؤكد]
+صافي الربح 100,000 [غير مؤكد]
+
+
+Passive filter
+Input A
+Pro-amp
+Input B
+To A/D
+OUTPUT 2
+
+وجه المقارنة | السنغال | الهند
+المساحة (كم2) | 196.72 ألف | 3.28 مليون
+عدد السكان (نسمة) | 16.21 مليون | 1.33 مليار
+الكثافة السكانية (ن./كم²) | 82.40 | 405.49
+العاصمة | داكار | نيودلهي
+اللغة الرسمية | لغة فرنسية، اللغة الولوفية، اللغة البلنتية | اللغة الهندية
+العملة | فرنك غرب أفريقي | روبية هندية
+الناتج المحلي الإجمالي (بليون دولار) | 20.23 مليار | 2.37 تريليون
+الناتج المحلي الإجمالي (تعادل القوة الشرائية) بليون دولار | 62.53 مليار | 3.27 تريليون
+الناتج المحلي الإجمالي الاسمي للفرد دولار أمريكي | 1.22 ألف | 1.79 ألف
+الناتج المحلي الإجمالي للفرد دولار أمريكي | 3.75 ألف
+مؤشر التنمية البشرية | 0.444 | 0.643
+رمز المكالمات الدولي | +221 | +91
+رمز الإنترنت | .sn | .in
+المنطقة الزمنية | 00 | IST، ت ع م+05:30
+
+image here
+إعلان
+
+
+البيان القيمة
+
+
+المبلغ الإجمالي 1000000 [غير مؤكد]
+image here
+Figure 7: A simplified diagram of the system front-end.

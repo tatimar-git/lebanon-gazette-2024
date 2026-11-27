@@ -1,0 +1,38 @@
+الجريدة الرسمية - العدد ١٣ - ٢٠٢٤/٣/٢٨
+٦٧٩
+جدول رقم ١ : المنهاج الخاص بقرار الاعتراف ببرنامج الإجازة الجامعية (بكالوريوس) في "الفنون التواصل" في كلية الفنون في الجامعة الدولية في بيروت، فيما خص الطلاب المنتسبين إلى السنة الأولى من هذا البرنامج في الاختصاص المذكور، ابتداءً من العام الجامعي ٢٠١٦-٢٠١٧ ولغاية العام الجامعي ٢٠٢٣-٢٠٢٤ ضمنياً.
+
+المجموعات/ الوحدات التدريسية | المقرر/ المادة | عدد الأرصدة | الفصل الدراسي(1) | المقررات الممهدة والمتزامنة (Cn) | ملاحظات
+الفئة | مجموع الأرصدة | الاسم | الرمز
+مواد عامة اختيارية ضمن متطلبات الجامعة | 6 | تحددها الجامعة بموجب لائحة رسمية مطلقة من ضمن موادها، وتودع نسخة عنها المديرية العامة للتعليم العالي في الشهر الأول من تاريخ نفاذ هذا القرار. | ٢/٢: أرصدة في الفصل الخامس ٢/٢: أرصدة في الفصل العاشر
+مواد عامة إلزامية ضمن متطلبات الجامعة | 15 | ARAB 200 | Arabic Language and Literature | 3 | الأول
+ENGL 251 | Communication Skills | 3 | الثاني | ENGL 201
+ENGL 201 | Composition and Research Skills | 3 | الأول | ENGL 151
+CULT 200 | Introduction to Arab - Islamic Civilization | 3 | الخامس
+CSCI 200 | Introduction to Computers | 3 | الأول | ENGL 151
+مواد إلزامية في الاختصاص | 45 | ADVR 300 | Advertising Theory and Practice | 3 | الثالث | COMM 200
+GDES 270 | Design Software I | 3 | الثاني | CSCI 200
+COMM 200 | Introduction to Communication Studies | 3 | الأول | ENGL 101
+COMM 205 | Introduction to Western Civilization | 3 | الثاني | ENGL 151 COMM 200
+COMM 300 | Media Laws and Ethics | 3 | الرابع | COMM 285
+COMM 400 | Media Management | 3 | الخامس | COMM 285 COMM 330
+COMM 330 | Media Planning and Audience Analysis | 3 | الرابع | COMM 285
+COMM 265 | Performance Theory and Practice | 3 | الثاني | COMM 200
+ARTS 350 | Photography | 3 | الرابع | ENGL 151
+PREL 300 | Public Relations Principles and Concepts | 3 | الثالث | COMM 200
+COMM 320 | Radio-TV Announcing | 3 | الثالث | COMM 200 ARAB 200
+COMM 310 | Research Methods in Communication Arts | 3 | الثالث | COMM 285
+مواد اختيارية في الاختصاص(2) | 33 | COMM 220 | Rhetoric and Persuasion | 3 | الأول | ENGL 151
+COMM 285 | Theories of Perception | 3 | الثاني | ENGL 151 COMM 200
+COMM 225 | Workshop | 3 | الأول | ENGL 101
+JORN 370 | Arabic News Writing and Reporting | 3 | الثالث | JORN 200 ARAB 200 | المجموعة الأولى
+JORN 385 | Citizen Journalism | 3 | الثالث | COMM 200
+JORN 375 | Journalism Workshop | 3 | الرابع | JORN 370
+JORN 200 | News Writing and Reporting | 3 | الثاني | ENGL 151 COMM 200
+JORN 400 | Newspaper and Magazine Writing and Production | 3 | الخامس | JORN 375 JORN 370
+RATV 435 | Radio-TV News | 3 | السادس | RATV 370
+JORN 440 | Reporting of Public Affairs | 3 | الخامس | RATV 370 JORN 380
+RTVF 340 | Script Writing | 3 | الخامس | COMM 225 ENGL 251 COMM 200
+JORN 495 | Senior Study in Journalism | 3 | السادس | JORN 440
+JORN 380 | Web Journalism | 3 | الرابع | JORN 200
+RATV 370 | Writing for Radio and TV | 3 | الرابع | COMM 285 COMM 320

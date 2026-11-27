@@ -1,0 +1,36 @@
+١٧٢٤ الجريدة الرسمية - العدد ٢٧ - ٢٠٢٤/٧/٤
+المنهاج الخاص بقرار الاعتراف ببرنامج الإجازة الجامعية (بكلوريوس) في العلوم في "هندسة الميكاترونيك" في كلية الهندسة في الجامعة الأميركية للعلوم والتكنولوجيا، فيما خص الطلاب الملتحقين بهذا البرنامج في الاختصاص المذكور، ابتداءً من العام الجامعي ٢٠١٩-٢٠٢٠.
+
+المجموعات (الوحدات الدراسية) | مجموع الأرصدة | المقرر / المادة | الفصل الدراسي(١) | المقررات الممهدة والمتزامنة (Co) | ملاحظات
+الاسم | الرمز | عدد الأرصدة
+مواد عامة إلزامية ضمن متطلبات الجامعة | 15 | Introduction to Computing | CSI 201 | 3 | الأول | ENG 000
+Composition and Rhetoric I | ENG 201 | 3 | الثاني | ENG 100 or ENG 105 or ENG 200
+Composition and Rhetoric II | ENG 202 | 3 | صيف ١ | ENG 201
+English Communication Skills | ENG 205 | 3 | الثالث | ENG 202
+Work Ready Now | HMS 300 | 3 | صيف ١ | ENG 001
+مواد اختيارية ضمن متطلبات الجامعة | 6 | تجدها الجامعة بموجب لائحة رسمية معلنة من ضمن موادها، وتودع نسخة عنها للمديرية العامة للتعليم العالي في شهر الأول من تاريخ نقلة هذا القرار. | ؟؛ أرصدة في الفصل الأول
+مواد إلزامية أساسية يمتلئها الاختصاص | 18 | Calculus III | MAT 203 | 3 | الثاني | MAT 102 or MAT 202
+Linear Algebra | MAT 205 | 3 | الثالث | MAT 102 or MAT 202
+Probability and Statistics for Science | MAT 210 | 3 | صيف ٢ | MAT 102 or MAT 202
+Differential Equations | MAT 225 | 3 | الثالث | MAT 203
+Numerical Methods | MAT 315 | 3 | الرابع | MAT 205 CSI 205
+General Chemistry | CHE 201B | 3 | الثاني | ENG 001
+Engineering Physics | CCE 200 | 4 | الأول
+مواد إلزامية في الاختصاص | 71 | Circuit Analysis I | CCE 201 | 3 | الثاني
+Circuit Analysis II | CCE 202 | 3 | الثالث
+Digital Systems | OCE 220 | 3 | الثالث | CSI 201 Co. OCE 220L
+Computer Organization and Microprocessors | OCE 320 | 3 | الرابع | OCE 220 OCE 220L Co. OCE 320L
+Control Systems | CCE 405 | 3 | الخامس | MAT 205 MTE 330 Co. CCE 405L
+Engineering Ethics | CCE 490 | 1 | الخامس | Senior Standing
+Circuits I Laboratory | CCE 201L | 1 | الثاني
+Problem Solving and PSPICE Circuit Analysis I | CCE 201P | 0 | الثاني
+Circuits II Laboratory | CCE 202L | 1 | الثالث
+Problem Solving and PSPICE Circuit Analysis II | CCE 202P | 0 | الثالث
+Digital Systems Lab | CCE 220L | 1 | الثالث | Co. CCE 220
+Computer Organization and Microprocessors Lab | CCE 320L | 1 | الرابع | Co. CCE 320
+Control Systems Laboratory | CCE 405L | 1 | خامس | Co. CCE 405
+Computer Programming I | CSI 205 | 3 | صيف ١ | CSI201 ENG 001 Co. CSI205L
+Programming I Lab | CSI 205L | 1 | صيف ١ | Co. CSI 205
+Engineering Workshop | MTE 203 | 1 | الثاني
+Solid Mechanics | MTE 211 | 3 | الأول | ENG 001 MAT 201
+Dynamics | MTE 212 | 3 | الثاني | MTE 211 MAT 202

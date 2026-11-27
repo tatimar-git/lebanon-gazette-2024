@@ -1,0 +1,41 @@
+١٧١٤ الجريدة الرسمية - العدد ٢٧ - ٢٠٢٤/٧/٤
+تليغ: المنهاج الخاص بقُرْار الاعتراف ببرنامج الإجازة الجامعية في "هندسة الميكاترونيك" (دبلوم مهندس) في كلية الهندسة في جامعة الحكمة، لِيما خصّ الطلاب الملتحقين بهذا البرنامج في الاختصاص المذكور إعتباراً من العام الجامعي ٢٠١٧-٢٠١٨.
+
+المجموعات / الوحدات التكنولوجية | المقرر / المادة | الفصل الدراسي | المقررات المهددة والمتزامنة (Co) | ملاحظات
+الفئة | مجموع الأرصدة | الاسم | الرمز | عدد الأرصدة
+مواد هندسية إلزامية في الاختصاص (تابع) | 16 | Electric Power System Lab | MCE 405 | 1 | الرابع | PHY 205 MCE 403
+Mechanics of Solids | MCE 409 | 3 | السادس | PHY 200
+Fluid Mechanics | MCE 410 | 3 | الخمس | PHY 340
+Mechatronics | MCE 430 | 3 | السابع | MCE 404 CTE 510
+Mechatronics Laboratory | MCE 431 | 1 | الثاني | MCE 430
+Electrical Machines | MCE 500 | 3 | الثالث | MCE 403
+Robotics | MCE 510 | 3 | الثامن | MCE 430 PHY 300
+Robotics Laboratory | MCE 511 | 1 | التاسع | MCE 511
+Sensors and Instrumentation | MCE 520 | 3 | العاشر | CTE 320 ELE 300
+Control and Optimization in Mechatronics Systems | MCE 530 | 3 | التابع | MCE 430
+Work Experience | MCE 399 | 0 | صيف ٣ | MCE 404 | تدريب يمكن على ١ أسابيع عمل وبعد ساعات لا يقل عن ١٠/١ ساعة
+Internship I for Mechatronics Engineering | MCE 499 | 0 | صيف ٤ | MCE 399 | تدريب يمكن على ٨ أسابيع عمل وبعد ساعات لا يقل عن ٨٠/١ ساعة
+Internship II for Mechatronics Engineering | MCE 699 | 2 | العاشر | MCE 499 | تدريب يمكن على ١٢ أسبوع عمل وبعد ساعات لا يقل عن ٢٧/١ ساعة
+Final Year Project for Mechatronics Engineering | MCE 698 | 3 | العاشر | Co. MCE 699 | مشروع تخرج يتم على فصل دراسي نصف سنوي
+مواد هندسية اختيارية في الاختصاص | Network Engineering | CTE 400 | 3 | CSC 300 CTE 340 CTE 320 | ٣/١ أرصدة في الفصل السادس ٢/١ أرصدة في فصل السابع ٧/١ أرصدة في الفصل التاسع ٣/١ أرصدة في الفصل العاشر
+Analog Communication | CTE 550 | 3 | MAT 302 CTE 410
+Embedded Systems | CTE 553 | 3 | CTE 510 CTE 511
+Artificial Intelligence | CTE 570 | 3 | CSC 301
+Database Systems | CTE 572 | 3 | CSC 300
+Energy and Heat Transfer | CME 440 | 3 | PHY 340
+Operations Research | MCE 505 | 3 | MAT 212 MAT 211 CSC 201
+Manufacturing Processes | MCE 563 | 3
+Virtual Instrumentation and Labview | MCE 564 | 3 | CSC 201 CTE 510
+Virtual Instrumentation and Labview Laboratory | MCE 565 | 1 | CSC 201 CTE 510
+Intelligent Control | MCE 569 | 3 | CSC 201 MCE 404 CSC 300
+Industrial Visit for Mechatronics Engineering | MCE 599 | 1
+Renewable Energy Sources | MCE 560 | 3 | PHY 340
+Refrigeration and Air-Conditioning | MCE 566 | 3 | MCE 410
+CNC Machining Technology | MCE 568 | 3 | MCE 503
+CNC Machining Technology Laboratory | MCE 570 | 1
+Power Electronics | MCE 571 | 3 | MCE 403
+Applied Hydraulics and Pneumatics | MCE 572 | 3 | MCE 410
+Kinematics and Dynamics of Machines | MCE 573 | 3 | MCE 409
+
+(١) على نحو استرشادي.
+(٢) تحدد المقررات المهددة والمتزامنة فترات خاصة وتنظم بإجراءات خطية مؤقتة من عيد نهاية السنة حتى توصية خطية من الجهة العلمية والادارية المختصة (رئيس القسم الأكاديمي، لجنة علمية مختصة...)، وذلك بحسب مدركات انتقال الطلاب أو بها تسيير تكنولوجيا التعليم الخاصة بكل منهم.

@@ -1,0 +1,27 @@
+٢٩٥٨ الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+also any guided waves may need to be considered and removed from the data. In such cases a TAU-
+P method would be applied.
+Shot gather - overlap shooting
+Time (s)
+0
+1
+2
+3
+4
+5
+6
+7
+0 Energy from next shot
+8
+Figure 5: Shot gathers illustrating the shot overlap for an approximately 9.5s shot to shot interval and a 12.5s record length.
+3.4. Obtaining the Optimal Acquisition Parameters
+The following must be considered when calculating the optimal acquisition parameters:
+- Water depth in the survey area.
+- Target depth(s).
+- Velocity model.
+- Intended shot point interval.
+- Intended record length.
+- Expected average acquisition bottom speed.
+- Current strength relative to acquisition direction.
+The results of this assessment will typically provide the optimal record length and the maximum amount of shot overlap that can be achieved. Sometimes a different shot point interval may also be considered.
+Nucleus+ is used to design and model the survey (Figure 6) and a Vessel Speed Calculator will be used to generate the vessel parameters for the survey.

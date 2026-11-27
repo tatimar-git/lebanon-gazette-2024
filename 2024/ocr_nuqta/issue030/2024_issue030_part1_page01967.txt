@@ -1,0 +1,58 @@
+١٩٦٧ الجريدة الرسمية - العدد ٣٠ - ٢٠٢٤/٧/٢٥
+بالطلاب المنتسبين الى السنة الأولى من هذا البرنامج في الاختصاص المذكور، اعتبارا من العام الجامعي ٢٠٢٤-٢٠٢٥، بعد أخذ الجامعة بتوصيات اللجنة المتخصصة بالبرامج واللجنة الفنية الأكاديمية.
+المادة الرابعة: استنادا الى المادة ٤٩ من القانون رقم ٢٨٥/٢٠١٤، يخضع أي تعديل متعلق بالتنظيم الأكاديمي للبرامج، لا سيما ما يختص بتنظيم المنهاج المبين في الجدول المرفق رقم ١، الى تقييم المدير العام للتعليم العالي، الذي له أن يقرّ التعديل المقترح في حال اعتباره غير أساسي.
+المادة الخامسة: ينشر هذا القرار ويبلغ حيث تدعو الحاجة.
+بيروت في ٢٦ حزيران ٢٠٢٤
+وزير التربية والتعليم العالي
+عباس الحلبي
+جدول رقم ١ : المنهاج الخاص بقرار الاعتراف ببرنامج الإجازة الجامعية (بكالوريوس) في العلوم في "علوم الحياة" في كلية الاداب والعلوم في جامعة القديس جاورجيوس في بيروت، فيما يخص الطلاب الملتحقين بهذا البرنامج في الاختصاص المذكور، ابتداءً من العام الجامعي ٢٠٢١-٢٠٢٢ ولغاية العام الجامعي ٢٠٢٣-٢٠٢٤.
+
+المجموع على الوحدات الدراسية | القرار / المادة | عدد الوحدات الدراسية(١) | المقررات المهددة والمتزامنة (C)(٢) | ملاحظات
+مجموع الوحدة | الاسم | الرمز
+مواد عامة إلزامية ضمن متطلبات الجامعة | 19 | Academic Arabic | ARAB 201 | 3 | الأول
+Academic English I | ENGL 201 | 3 | الأول
+Academic English II | ENGL 202 | 3 | ثاني | ENGL 201 or ≥ C grade in ENGL 200
+Cultures and Humanities Exploration I | CHUM 201 | 3 | خامس | ENGL 200 or ENGL 201
+Cultures and Humanities Exploration II | CHUM 202 | 3 | سادس | CHUM 201
+Communication and Presentation Skills | COMM 344 | 3 | خامس | ARAB 201 ENGL 202
+مواد أساسية يستلزمها الاختصاص | 30 | Potential and Implications of Artificial Intelligence | ITEC 220 | 1 | خامس
+General Chemistry | CHEM 201 | 4 | الأول
+Organic Chemistry I | CHEM 210 | 4 | ثاني | CHEM 201
+Organic Chemistry II | CHEM 310 | 3 | ثالث | CHEM 210
+Chemistry Laboratory | CHEM 321 | 1 | ثالث | CHEM 210
+Physics I | PHYS 201 | 3 | ثاني | Co. MATH 201
+Physics II | PHYS 202 | 3 | ثالث | PHYS 201
+Physics Laboratory | PHYS 310 | 3 | رابع | PHYS 202
+Discrete Math | MATH 201 | 3 | ثاني
+Calculus I | MATH 210 | 3 | الأول
+Probability and Statistics | STAT 202 | 3 | خامس | MATH 210
+مواد إلزامية في الاختصاص | 30 | General Biology and Evolution | BIOL 201 | 4 | الأول
+Biochemistry | BIOL 210 | 3 | الرابع | BIOL 201 CHEM 210
+Molecular Genetics and Genomics | BIOL 310 | 4 | ثاني | BIOL 201
+Molecular Genetics Laboratory | BIOL 311 | 3 | رابع | BIOL 310
+Cell Biology and Development | BIOL 320 | 4 | ثالث | BIOL 310
+Medicine and Community I | BIOL 340 | 1 | ثاني
+Cellular and Molecular Neurobiology | BIOL 420 | 3 | الخامس | BIOL 320
+Principles of Microbiology | BIOL 421 | 3 | سادس | BIOL 201
+Mechanisms of Immunology | BIOL 422 | 3 | سادس | BIOL 201
+BioEthics | BIOL 430 | 2 | سادس | ENGL 201 or ≥ C grade in ENGL 200
+مواد اختيارية | 20 | Introduction to Sociology | SOCI 201 | 3 | ENGL 201 or ≥ C grade in ENGL 200
+Introduction to Psychology | PSYC 201 | 3 | ENGL 201 or ≥ C grade in ENGL 200
+Functional Morphology | BIOL 321 | 3 | Co. BIOL 320
+Medicine and Community II | BIOL 341 | 1
+Medicine and Community III | BIOL 342 | 1
+Medicine and Community IV | BIOL 343 | 1
+Fundamentals of Programming I | ITEC 201 | 4
+Fundamentals of Programming II | ITEC 202 | 4 | ITEC 201
+Introduction to Databases and Bioinformatics | ITEC 250 | 3
+Requirements Engineering | ITEC 280 | 4 | Co. ITEC 201 or department's permission
+IT Liability, Compliance, and Risk Management | ITEC 299 | 3 | ITEC 201 ITEC 280
+General Anthropology | CHUM 301 | 3
+Epistemology of Biomedical Sciences | CHUM 301 | 2 | CHUM 300
+History of Medical Thought | CHUM 302 | 3 | CHUM 300
+Interpersonal Arabic Communication | COMM 346 | 3 | ARAB 201
+Quantitative Analysis | CHEM 302 | 3 | CHEM 201
+Critical Reasoning and Analysis | ENGL 310 | 3 | ENGL 202
+
+(١) على نحو استرشادي.
+(٢) تحدد المقررات المهددة والمتزامنة لمدلات التخصص وتقدم بمتطلبات كلية موقعة من عبد غفلة، بناء على توصية خطية من الجهة المعنية، الأكاديمية المصلحة (رئيس القسم الأكاديمي، لجنة علمية مختصة)، وتلك بحسب مسارات انتقال الطلاب أو تبعاً لسيوروكبيرة فتعقب الخاصة بكل منهم.

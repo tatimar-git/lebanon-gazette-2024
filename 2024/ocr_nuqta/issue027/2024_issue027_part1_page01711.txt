@@ -1,0 +1,41 @@
+الجريدة الرسمية - العدد ٢٧ - ٢٠٢٤/٧/٤
+١٧١١
+تبع: المنهاج الخاص بقرار الاعتراف ببرنامج الإجازة الجامعية في “هندسة المعلوماتية والاتصالات” (دبلوم مهندس) في كلية الهندسة في جامعة الحكمة، فيما خص الطلاب الملتحقين بهذا البرنامج في الاختصاص المذكور اعتباراً من العام الجامعي ٢٠١٧-٢٠١٨.
+
+المجموعات/الوحدات التدريسية | المقرر/المادة | الفصل الدراسي:١ | المقررات المسهدة والمتزامنة (Co) | ملاحظات
+الفئة | مجموع الأرصدة | الاسم | الرمز | عدد الأرصدة
+مواد هندسية إلزامية في الاختصاص (تابع) | Microprocessors and Microcontrollers Laboratory | CTE 511 | 1 | السدس | CTE 510
+Digital Signal Processing | CTE 525 | 3 | السدس | CTE 410
+Analog Communication | CTE 550 | 3 | ثلاثين | MAT 302 CTE 410
+Telecommunication Laboratory | CTE 555 | 1 | ثلاثين | CTE 411 CTE 550
+Wireless Network | CTE 556 | 3 | الثامن | PHY 302 CTE 551
+Advanced Electromagnetics | CTE 557 | 3 | الثامن | PHY 302 CTE 330
+Embedded Systems | CTE 558 | 3 | السابع | CTE 510 CTE 511
+Electric Power System | MCE 403 | 3 | الرابع | PHY 204
+Linear Control Systems | MCE 404 | 3 | السادس | MAT 212 MAT 321
+Electric Power System Laboratory | MCE 405 | 1 | الرابع | PHY 205 MCE 403
+Work Experience | CTE 399 | 0 | صيف ٣ | MCE 404 | تدريب يمكن على ١ أسابيع عمل وبعدد ساعات لا يقل عن ١٢٠/١ ساعة
+Internship I for Biomedical Engineering | CTE 499 | 0 | صيف ١ | CTE 399 | تدريب يمكن على ٨ أسابيع عمل وبعدد ساعات لا يقل عن ١٨٠/١ ساعة
+مواد هندسية الحاسوبية في الاختصاص | 16 | Internship II for Biomedical Engineering | CTE 699 | 2 | العاشر | CTE 499 | تدريب يمكن على ٢١ اسبوع عمل وبعدد ساعات لا يقل عن ٣٦٠/١ ساعة
+Final Year Project for Biomedical Engineering | CTE 698 | 3 | العاشر | Co. CTE 699 | مشروع تخرج يمكن على فصل دراسي نصف سنوي
+Electrical Machines | MCE 500 | 3 | MCE 403 | ١٣: أرصدة في الفصل السادس ١٢: أرصدة في الفصل السابع ١٢: أرصدة في الفصل الثامن ١٤: أرصدة في الفصل التاسع ١٣: أرصدة في الفصل العاشر
+Operations Research | MCE 505 | 3 | MAT 212 MAT 211 CSC 201
+Virtual Instrumentation and Labview | MCE 564 | 3 | CSC 201 CTE 510
+Virtual Instrumentation and Labview Laboratory | MCE 565 | 1 | CSC 201 CTE 510
+Computer Programming II - C++ Laboratory | CTE 302 | 1 | CSC 301
+Advanced Programming I | CTE 405 | 3 | CSC 300
+Digital Communication | CTE 551 | 3 | CTE 550
+Security for Systems and Network | CTE 561 | 3 | CSC 201 CTE 400 CTE 402
+Advanced Programming II | CTE 563 | 3
+Information Theory and Coding | CTE 564 | 3 | CTE 525
+Telecommunication and Traffic Engineering Laboratory | CTE 566 | 1
+Antennas, Radars and GPS | CTE 568 | 3 | PHY 302 CTE 557
+Internet Protocols | CTE 569 | 3 | CSC 300
+Artificial Intelligence | CTE 570 | 3 | CSC 301 CTE 558
+Database Systems | CTE 572 | 3 | CSC 300
+Artificial Intelligence II - Applications | CTE 575 | 3 | CTE 558
+Web Programming | CTE 580 | 3 | CSC 300
+Industrial Visit for Computer Engineering | CTE 599 | 1
+
+(١) على نحو استرشادي.
+(٢) تحدد المتفرغات المسهدة والحرَّامة للندالات الخاصة وتتلم بإبداءات خطبة موقَّعة من حميد الكلية، بناءً على توصية خطية من الجهة العلمية/الأكاديمية الصالحة (رئيس القسم الأكاديمي، لجنة علمية مختصة...)، وذلك بحسب مسارات انتقال الطلاب أو تبعاً لسبرورة وتجربة التعليم الخاصة بكلٍ منهم.

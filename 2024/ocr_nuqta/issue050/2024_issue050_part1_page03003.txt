@@ -1,0 +1,48 @@
+[ترويسة الصفحة حسب بيانات الموقع الرسمي: العدد ٥٠ - ٢٠٢٤/١٢/١٢ - الصفحة ٣٠٠٣]
+image here
+الجمهورية العربية السورية
+وزارة الطاقة والمياه
+image here
+RECONNAISSANCE LICENSE CERTIFICATE
+License Number: RL-2-2024
+Date: 04 December 2024
+This Reconnaissance License has been issued by the Minister of Energy and Water (Decision no. 25 D/M dated 04 December 2024) to
+PGS Geophysical AS company according to Articles 13, 14, 15, 17, 18, 19, 22 of the Decree no. 10259/2013 (P4R).
+LICENSE HOLDER INFORMATION
+Name: PGS Geophysical AS
+Email: Adilan.Burke@tgs.com
+Address: Lilleakerveien 4C, 0283 Oslo, Norway
+Website: www.tgs.com
+٢٠٢٤/١٢/١٦ -
+LICENSE INFORMATION
+License type: Multi-Client
+License duration: 2 years
+Exusive marketing rights duration: 10 years
+Deliverables: As per Annexes I, II and III of Decision no. 25 D/M dated 04 December 2024
+SURVEY INFORMATION
+Survey type: New 3D acquisition, merging existing 3D data, reprocessing and merging with the new acquired data
+Targeted Blocks: Block 8 & portion of Block 9, Offshore Lebanon
+Survey area: No less than 1,300 sqkm
+Survey area (1,305 km²)
+Block 6
+Block 9
+1
+2
+3
+4
+5
+6
+7
+
+Point | X (UTM 36N) | Y (UTM 36N)
+1 | 643535.722 | 3706882.639
+2 | 626640.842 | 3686178.668
+3 | 571414.174 | 3713427.701
+4 | 577966.476 | 3716399.345
+5 | 570625.301 [غير مؤكد، قراءة أخرى: 570628.301] | 3720387.789
+6 | 587943.870 | 3723092.534
+7 | 584019.060 | 3724933.523
+
+Minister of Energy and Water
+Dr. Walid Fayad
+image here

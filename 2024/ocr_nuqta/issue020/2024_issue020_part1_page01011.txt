@@ -1,0 +1,40 @@
+الجريدة الرسمية - العدد ٢٠ - ٢٠٢٤/٥/١٦
+١٠١١
+جنون رقم ١ : المنهاج الخاص بقرار تجديد الاعتراف ببرنامج الإجازة الجامعية (بكالوريوس) في "الصحافة والإعلام الرقمي" في كلية الإعلام والفنون في جامعة المعارف، في ما خصّ الطلاب المنتسبين إلى السنة الأولى من هذا البرنامج في الاختصاص المذكور اعتباراً من العام الجامعي ٢٠١٥-٢٠١٦ ولغاية العام الجامعي ٢٠٢٢-٢٠٢٣.
+
+التجموع بالوحدات التدريبية | المقرر المادة | عدد الساعات الدراسية(١) | المقررات المهددة والمؤهلة(٢) (Co) | ملاحظات
+الفئة | مجموع الأرصدة | الاسم | الرمز | الأرصدة
+مواد عامة إلزامية ضمن متطلبات الجامعة | 21 | Business Software Applications | MIT 200 | 3 | انزل | ENG 050
+English Communication Skills I | ENG 201 | 3 | انزل | ENG 109 Prereq: ENG 108
+English Communication Skills II | ENG 202 | 3 | انزل | ENG 201
+Arabic Communication skills I | ARB 201 | 3 | انزل | ARB 100
+Arabic Communication skills II | ARB 202 | 3 | انزل | ARB 201
+Cultural Studies | CST 200 | 3 | انزل | MAT 200B
+مواد إلزامية أساسية مشتركة ضمن متطلبات الكلية | 36 | Introduction to Communication Studies | COM 200 | 3 | انزل | ENG 201
+Digital Applications Skills | COM 210 | 3 | انزل | MIT 200 ENG 050
+Mediated Performance Theory and Practice | COM 216 | 3 | انزل | ARB 100 Prereq: ENG 108
+Research Methods in Communication | COM 230 | 3 | ترافع | COM 200 ENG 201
+New Media Communications | COM 300 | 3 | ترافع | COM 200 ENG 201
+Media Ethics and Law | COM 350 | 3 | ترافع | ARB 201 COM 200
+Intercultural Communication | COM 360 | 2 | الخاص | COM 230 COM 300 ENG 202
+Essentials of Public Relations | APR 210 | 3 | انزل | ENG 101 Prereq: ENG 108
+Reporting Practices | JDM 320 | 3 | انزل | AJB 201 COM 200 ENG 201
+Fundamentals of Speech Communication | COM 240 | 3 | انزل | ARB 201 COM 216
+Introduction to Photography and Cinematography | COM 312 | 3 | انزل | ENG 050 MIT 200
+Television and Radio Broadcasting | RTV 220 | 3 | انزل | COM 240
+Editorial and Feature Writing | JDM 350 | 2 | الخاص | ENG 201 JDM 220
+Multimedia Journalism | JDM 260 | 3 | الخاص | COM 216 COM 300 COM 212
+Digital Journalism: The Convergent Storytelling | JDM 300 | 2 | الخاص | JDM 250 JDM 345
+Web Design for Journalists | JDM 345 | 3 | الخاص | COM 300 JDM 220 MIT 200
+Seminar in Journalism and Digital Media | JDM 380 | 3 | ترافع | COM 230 JDM 220
+Journalism and Society: The Lebanese Case | JDM 440 | 3 | الخاص | JDM 250
+Newsroom Management | JDM 460 | 3 | الخاص | COM 230 ENG 231 JDM 220
+Professional Placement | JDM 497 | 3 | الخاص | Junior Standing
+Journalism and Digital Media Capstone Project | JDM 495 | 3 | الخاص | Senior Standing
+مواد اختيارية في الاختصاص | 6 | يحتال الطالب من ضمن قائمة المواد الاختيارية في الاختصاص المدرجة في الجدول رقم 2 | ٢٦ ارصدة في الفصل الرابع ٢٦ ارصدة في الفصل السادس
+مواد حرة | 9 | تتمدها الجامعة بموجب قائمة رسمية معلنة عن ضمن موادها. | الربع
+الخاص
+الخاص
+
+(١) هي لغة مشتركة.
+(٢) تتعدد المقررات المهددة واللاذائلة بالآلات الخاصة ويتمثل بإنهاءات عملية موافقة من عمد الكلية، يبدأ على توصية خاصة من الجهة المشرفة الاذراعية للجامعة، رئيس القسم الاذاعي، لجهة فنية مختصة...، وذلك بحسب سائر اشكال الطلاب او مهماً لسير ورائحة المدرسة لتسليم الحادثة والتي ماهي.

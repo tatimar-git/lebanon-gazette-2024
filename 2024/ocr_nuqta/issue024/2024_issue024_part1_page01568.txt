@@ -1,0 +1,35 @@
+١٥٦٨ الجريدة الرسمية - العدد ٢٤ - ٢٠٢٤/٦/١٣
+Codes des types de crédits (En monnaie cash)
+a7 : Autres crédits au logement (En monnaie cash).
+c1 : Débiteurs par cartes de crédit (En monnaie cash) à paiements mensuels.
+c2 : Débiteurs par cartes de paiement (En monnaie cash) avec solde payable en fin de cycle de facturation.
+d1 : Créances (En monnaie cash) douteuses ou irrécouvrables (Etat 2010- Code mécanographique 11740) pour lesquelles la CCB a autorisé la constitution de provisions partielles ou totales. Leur solde doit figurer à la CDR, en principal et intérêts non réalisés.
+d2 : Dettes (En monnaie cash) en suspens en cours de recouvrement.
+d3 : Créances (En monnaie cash) litigieuses.
+e1 : Escompte effets commerciaux (En monnaie cash) avec recours.
+e2 : Escompte effets commerciaux (En monnaie cash) sans recours sauf ceux mentionnés sous le code b22.
+c3 : Factoring – Créances (En monnaie cash) achetées avec recours.
+c4 : Factoring - Créances (En monnaie cash) achetées sans recours.
+h0F: Microcrédits en L.L. (En monnaie cash) accordés par les banques.
+h3F: Microcrédits en L.L. (En monnaie cash) financés par les institutions financières par des crédits accordés par celles-ci ou par les institutions de Microcrédits.
+i : Crédits à l'habitat (En monnaie cash) financés par des prêts accordés à la banque de l'habitat.
+i1 : Mourabaha (En monnaie cash).
+i2 : Ijara (En monnaie cash).
+i3 : Bay’ salam (En monnaie cash).
+i4 : Istisna’ (En monnaie cash).
+i5 : Kard Hasan (En monnaie cash).
+i6 : autres financements islamiques (En monnaie cash).
+i7 : Acceptations (En monnaie cash) (Etat 2010- Code mécanographique 1180).
+i8 : Opérations de Crédit-bail (En monnaie cash) non honorifiés (Décision de base No. 7540 du 2000/3/4).
+i9 : Lettres de Crédit (En monnaie cash).
+i11 : Lettres de garantie pour adjudications (En monnaie cash).
+i12 : Lettres de garantie de bonne exécution (En monnaie cash).
+lg3 : Lettres de garantie monétaire (En monnaie cash).
+lg4 : Autres Lettres de garantie (En monnaie cash).
+o : Obligations du secteur non financier non lié (En monnaie cash) (Etat 2010 - Code mécanographique 15643 +16804)
+x1f: Avances (En monnaie cash) sur nantissements de fonds de commerce ou matériels ou véhicules ou marchandises non agréés par la Commission de Contrôle des Banques
+N.B.: seront transférés à la case "Avances sur autres sûretés réelles ASR" dans la "Déclaration à la Centrale Des Risques-Engagements Directs", dès qu'ils seront agréés par la CCB.
+x2f: Avances sur marché (En monnaie cash).
+z1f : Autres Avances en compte courant (En monnaie cash).
+z2f : Autres Avances sur effets commerciaux (En monnaie cash).
+z3f : Autres prêts à échéance déterminée (En monnaie cash).

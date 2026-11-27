@@ -1,0 +1,46 @@
+٢٧٣٠ الجريدة الرسمية - العدد ٤٦ - ٢٠٢٤/١١/١٤
+جدول رقم ١: المنهاج الخاص بقرار تجديد الاعتراف ببرنامج الماجستير في "الحقوق" في تراكيز "القانون العام" و "القانون المقارن" و "القانون الرقمي" و "القوانين المصرفية والمالية" و "القانون الخاص" في كلية الحقوق في جامعة الحكمة، فيما خصّ الطلاب المنتميين إلى هذا البرنامج في الاختصاص المذكور ابتداءً من العام الجامعي ٢٠٢٤-٢٠٢٥.
+
+المجموع/الوحدات الرئيسية | المقرر/المادة | عدد الإرصدة | الترميز | الاسم | الفصل الدراسي(أ) | المقررات الممهدة والمتزامنة (Co) | ملاحظات
+الفئة | مجموع الإرصدة
+مواد إلزامية مشتركة في الاختصاص | 22 | 1 | RLW 501 | Contrats nommés I | الأول | 2
+1 | RLW 502 | Contrats nommés TD I | الأول | 1
+2 | RLW 503 | Contrats nommés II | الثاني | 2
+1 | RLW 504 | Contrats nommés TD II | الثاني | 1
+2 | RLW 510 | Droit des transports aériens et maritimes | الثاني | 2
+2 | RLW 515 | Droit international privé I | الأول | 2
+1 | RLW 516 | Droit international privé TD I | الأول | 1
+2 | RLW 517 | Droit international privé II | الثاني | 2
+1 | RLW 518 | Droit international privé TD II | الثاني | 1
+2 | BFL 530 | Droit bancaire | الثاني | 2
+3 | RLW 535 | Procédure pénale | الأول | 3
+3 | RLW 567 | Droit foncier et Suretés réelles | الأول | 3
+مواد إلزامية يستلزمها الاختصاص | 3 | LAW 600 | Méthodologie de la recherche | الثالث | 3
+مواد إلزامية في تركيز "القانون العام" | 15 | 3 | PLW 615 | Droit international public approfondi | الثالث | 3
+3 | PLW 617 | Droit administratif approfondi | الثالث | 3
+3 | PLW 621 | Contentieux constitutionnel | الرابع | 3
+6 | LAW 699 | Mémoire | الرابع | 6 | LAW 600
+مواد اختيارية في تركيز "القانون العام" | 6 | 3 | PLW 625 | Droit de la décentralisation administrative | الثالث | 3
+3 | PLW 626 | Droit des finances publiques et fiscalité | الرابع | 3
+3 | PLW 627 | Droit des marchés publics | الثالث | 3
+3 | PLW 622 | Contentieux administratif | الرابع | 3
+3 | PLW 618 | Organisations internationales | الرابع | 3
+3 | PLW 620 | Droit constitutionnel approfondi | الرابع | 3
+3 | OLW 624 | Arbitrage et MARC | الثالث | 3 | مواد إلزامية في تركيز "القانون المقارن" | 15 | 3 | IBL 625 | Droit du commerce international | الرابع | 3
+3 | OLW 626 | Introduction au droit comparé | الرابع | 3
+6 | LAW 699 | Mémoire | الرابع | 6 | LAW 600
+مواد اختيارية في تركيز "القانون المقارن" | 6 | 3 | OLW 627 | Droit européen | الرابع | 3
+3 | PLW 612 | Législations comparées | الثالث | 3
+3 | IBL 635 | Fiscalité internationale | الرابع | 3
+3 | IBL 523 | Droit des contrats internationaux | الثالث | 3
+3 | RLW 642 | Contentieux international | الثالث | 3
+3 | RLW 645 | Droit des transports aériens et maritimes approfondi | الثالث | 3
+مواد إلزامية في تركيز "القانون الرقمي" | 15 | 3 | DLP 606 | Propriété littéraire et artistique | الثالث | 3
+3 | DLP 602 | Propriété industrielle 1 (les marques) | الرابع | 3
+3 | DLP 605 | Propriété industrielle 2 (les brevets) | الرابع | 3
+6 | LAW 699 | Mémoire | الرابع | 6 | LAW 600
+3 | DLP 601 | Jurimétrie et traitement | الثالث | 3 | مواد اختيارية في تركيز "القانون الرقمي" | 6 | 3 | DLP 604 | Indexation de l'informatique | الرابع | 3
+3 | DLP 603 | La cyber-criminalité | الثالث | 3
+3 | DLP 607 | Droit des TIC (E-Commerce) | الرابع | 3
+3 | DLP 610 | Droit des données personnelles | الرابع | 3
+3 | RLW 608 | Contentieux contractuel | الرابع | 3

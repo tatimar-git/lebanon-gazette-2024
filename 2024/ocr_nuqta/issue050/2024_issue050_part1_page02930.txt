@@ -1,0 +1,43 @@
+٢٩٣٠ الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+جدول رقم ١: المنتهاج الخاص بالقرار المبدئي رقم ٢٠١٥/٨٨/١٠٩ تاريخ ٢٠١٥/١٢/١١ المتعلق بالطلاب الملتحقين ببرنامج الماجستير (ماستر) التخصصي في "إدارة الأعمال" في كلية سنيان العليان لإدارة الأعمال في الجامعة الأميركية في بيروت قبل العام الجامعي ٢٠٢٣-٢٠٢٤.
+
+المجموعات الوحدات التدريسية | المقرر / المادة | عدد الأرصدة | الفصل الدراسي(أ) | المقررات الممهدة والمتزامنة (C)(O) | ملاحظات
+الفئة | مجموع الأرصدة | الرمز | الاسم
+مواد إلزامية في الاختصاص | 24 | Leadership and Behavior in Organizations | MNGT 306 | 3 | الأول
+Marketing Management | MKTG 306 | 3 | الأول
+Models for Decision Making | DSCN 300 | 3 | الثالث
+Prices, Markets and the Economic Environment | BUSS 315 | 3 | الثاني
+Financial Reporting and Analysis | ACCT 301 | 3 | الثالث
+Operations and Process Management | DCSN 310 | 3 | الثاني
+مواد اختيارية في الاختصاص | 12 | Strategic Management | BUSS 349 | 3 | الرابع | به أرصدة من المواد الإلزامية في الاختصاص تتضمن MNGT 306 ، MKTG 306
+Intermediate Corporate Finance | FINA 306 | 3 | الرابع
+Project | BUSS 398 | 3
+Special Topics in Business | BUSS 350 | 3
+Entrepreneurship and Innovation Practicum | BUSS 350D | 3
+Project Management | DCSN 330 | 3
+Supply Chain Management | DCSN 340 | 3 | DCSN 310
+Technology and Information Management | INFO 300 | 3
+Strategic Marketing Measurement | MKTG 350F | 3
+Crisis Communication | MKTG 350G | 3
+Advanced Business Communication | MKTG 350K | 3
+Quality Management | MNGT 330 | 3
+Human Capital Management | MNGT 332 | 3
+Corporate Social Responsibility | MNGT 350J | 3
+Talent Management | MNGT 350L | 3
+Business Research Methods | BUSS 300 | 3 | ٣٠ أرصدة في الفصل الأول
+Advanced Managerial Economies | BUSS 305 | 3 | ٣٠ أرصدة في الفصل الثاني
+Intermediate Financial Accounting II | ACCT 315 | 3 | ٣٠ أرصدة في الفصل الثالث
+Profit Planning and Control | ACCT 320 | 3 | ٣٠ أرصدة في الفصل الرابع
+Advanced Auditing | ACCT 325 | 3 | ACCT 315
+Accounting Theory | ACCT 330 | 3 | ACCT 315
+Activity Based Costing | ACCT 340 | 3
+Financial Statements Analysis | ACCT 345 | 3
+Special Topics in Accounting | ACCT 350 | 3
+Accounting Tutorial | ACCT 351 | 3
+Investment Analysis and Evaluation | FINA 315 | 3
+Derivative Securities | FINA 318 | 3 | FINA 306
+Investment Banking | FINA 320 | 3 | FINA 306
+Global Finance | FINA 325 | 3
+Banking Risk Management | FINA 330 | 3 | FINA 306
+Entrepreneurial Finance | FINA 333 | 3
+Portfolio Theory and Management | FINA 335 | 3 | FINA 315

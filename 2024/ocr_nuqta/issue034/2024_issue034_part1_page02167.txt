@@ -1,0 +1,12 @@
+[ترويسة الصفحة حسب بيانات الموقع الرسمي: العدد ٣٤ - ٢٠٢٤/٨/٢٢ - الصفحة ٢١٦٧]
+Table 2 - Total financial appropriations by fund and national contribution (in EUR)
+
+Policy objective | Priority | Fund | Basis for calculation EU support (total eligible cost or public contribution) | EU contribution (a)=(a1)+(a2) | Indicative breakdown of the EU contribution | National contribution (b)=(c)+(d) | Indicative breakdown of the national counterpart | Total (e)=(a)+(b) | Co-financing rate (f)=(a)/(e) | Contributions from the third countries
+without TA pursuant to Articles 27(1) (a1) | for TA pursuant to Article 27(1) (a2) | National public (c) | National private (d)
+1 | 1 | Interreg Funds | Total eligible cost | 76,151,645.00 | 69,228,768.00 | 6,922,877.00 | 8,461,295.00 | 5,076,777.00 | 3,384,518.00 | 84,612,940.00 | 89.9999988131% | 0.00
+2 | 2 | Interreg Funds | Total eligible cost | 110,791,436.00 | 100,719,487.00 | 10,071,949.00 | 12,310,161.00 | 7,386,097.00 | 4,924,064.00 | 123,101,597.00 | 89.9999989440% | 0.00
+4 | 3 | Interreg Funds | Total eligible cost | 55,844,539.00 | 50,767,763.00 | 5,076,776.00 | 6,204,950.00 | 3,722,970.00 | 2,481,980.00 | 62,049,489.00 | 89.9999982272% | 0.00
+6 | 4 | Interreg Funds | Total eligible cost | 20,307,105.00 | 1,846,100.00 | 1,846,100.00 | 2,256,345.00 | 1,353,807.00 | 902,538.00 | 22,563,450.00 | 90.0000000000% | 0.00
+Total | Interreg Funds | Total eligible cost | 263,094,725.00 | 239,177,023.00 | 23,917,702.00 | 29,232,751.00 | 17,539,651.00 | 11,693,100.00 | 292,327,476.00 | 89.9999988369% | 0.00
+
+٢١٦٧

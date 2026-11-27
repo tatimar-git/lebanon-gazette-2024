@@ -1,0 +1,20 @@
+٢١٧٤ الجريدة الرسمية - العدد ٣٤ - ٢٠٢٤/٨/٢٢
+framework contract as referred to point (b) of the second subparagraph of point 1.3 of Annex I of the Financial Regulation.
+The electronic auction shall be based on one of the award methods set out in point 17.4 of this Annex.
+3. The contracting authority which decides to hold an electronic auction shall state that fact in the contract notice. The procurement documents shall include the following details:
+a) the values of the features which will be the subject of an electronic auction, provided that those features are quantifiable and can be expressed in figures or percentages;
+b) any limits on the values which may be submitted, as they result from the specifications relating to the subject matter of the contract;
+c) the information which will be made available to tenderers in the course of the electronic auction and, where appropriate, when it will be made available to them;
+d) the relevant information concerning the electronic auction process including whether it includes phases and how it will be closed, as set out in point 10.7;
+e) the conditions under which the tenderers will be able to tender and, in particular, the minimum differences which will, where appropriate, be required when submitting the tender;
+f) the relevant information concerning the electronic equipment used and the arrangements and technical specifications for connection.
+4. All tenderers who have submitted admissible tenders shall be invited simultaneously by electronic means to participate in the electronic auction using the connections in accordance with the instructions. The invitation shall specify the date and time of the start of the electronic auction.
+The electronic auction may take place in a number of successive phases. The electronic auction shall not start sooner than two working days after the date on which invitations are
+sent out.
+5. The invitation shall be accompanied by the outcome of a full evaluation of the relevant tender. The invitation shall also state the mathematical formula to be used in the electronic auction to determine automatic re-rankings on the basis of the new prices and/or new values submitted. That formula shall incorporate the weighting of all the criteria fixed to determine the most economically advantageous tender, as indicated in the procurement documents. For that purpose, any ranges shall, however, be reduced beforehand to a specified value. Where variants are authorised, a separate formula shall be provided for each variant.
+6. Throughout each phase of an electronic auction the contracting authority shall instantaneously communicate to all tenderers at least sufficient information to enable them to ascertain their relative rankings at any moment. It may also, where this has been previously indicated, communicate other information concerning other prices or values submitted as well as announce the number of tenderers in any specific phase of the auction. It shall not however disclose the identities of the tenderers during any phase of an electronic auction.
+7. The grant beneficiary shall close an electronic auction in one or more of the following ways:
+a) at the previously indicated date and time;
+b) when it receives no more new prices or new values which meet the requirements concerning minimum differences, provided that it has previously stated the time which it will allow to elapse after receiving the last submission before it closes the electronic auction;
+c) when the previously indicated number of phases in the auction has been completed.
+8. After closing an electronic auction, the contracting authority shall award the contract on the

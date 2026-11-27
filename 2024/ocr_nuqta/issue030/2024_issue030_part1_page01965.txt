@@ -1,0 +1,49 @@
+الجريدة الرسمية العدد ٣٠ ٢٠٢٤/٧/٢٥
+١٩٦٥
+جدول رقم ١ : المنهاج الخاص بقرار الاعتراف ببرنامج الإجازة الجامعية (بكالوريوس) في العلوم في "تكنولوجيا المعلومات" في
+كنية الآداب والعلوم في جامعة القديس جاورجيوس في بيروت، فيما خص الطلاب الملتحقين بهذا البرنامج في
+الاختصاص المذكور، ابتداءً من العام الجامعي ٢٠٢١-٢٠٢٢ ولغاية العام الجامعي ٢٠٢٣-٢٠٢٤.
+
+المجموعات الوحدات التدريبية | المقرر المادة | الفصل الدراسي(١) | المقررات الممهدة والمتزامنة (Co) (٢) | ملاحظات
+قناة | مجموع الأرصدة | الرمز | عدد الأرصدة
+مواد عامة إلزامية ضمن متطلبات الجامعة | 19 | Academic Arabic | ARAB 201 | 3 | أول
+Academic English I | ENGL 201 | 3 | الأول | ENGL 200 (final grade must be ≥ C)
+Academic English II | ENGL 202 | 3 | الثاني | ENGL 201 or ≥ C grade in ENGL 200
+Cultures and Humanities Exploration I | CHUM 201 | 3 | الثالث | ENGL 201 or ≥ C grade in ENGL 200
+Cultures and Humanities Exploration II | CHUM 202 | 3 | الرابع | CHUM 201
+مواد إلزامية يلتزمها الاختصاص | 12 | Communication and Presentation Skills | COMM 344 | 3 | الخامس | ARAB 201 ENGL 202
+Potential and Implications of Artificial Intelligence | ITEC 220 | 1 | الخامس
+Statistics for IT | STAT 207 | 3 | الأول
+Discrete Math | MATH 201 | 3 | الثاني
+Multi-Disciplinary Science Foundations | BIOL 202 | 3 | الثاني
+مواد إلزامية في الاختصاص | 49 | General Business Principles | BUSI 201 | 3 | الثاني
+Fundamentals of Programming I | ITEC 201 | 4 | الأول | ITEC 201
+Fundamentals of Programming II | ITEC 202 | 4 | الثاني | Co. ITEC 201 or department's permission
+Requirements Engineering | ITEC 280 | 4 | الأول
+IT Liability, Compliance, and Risk Management | ITEC 299 | 3 | الثالث | ITEC 201 ITEC 280
+Web Programming | ITEC 301 | 3 | الثالث | ITEC 202
+Introduction to Networks and Cybersecurity | ITEC 330 | 3 | الثالث | ITEC 202
+Fundamentals of Network Administration | ITEC 331 | 3 | الرابع | ITEC 330
+Operating Systems and Administration | ITEC 340 | 3 | الرابع | ITEC 330
+Databases Modeling and Practices | ITEC 350 | 3 | الثالث | ITEC 202 MATH 201
+Systems Analysis and Design | ITEC 380 | 3 | الرابع | ITEC 299 ITEC 350 ITEC 301
+مواد اختيارية | 15 | Enterprise Cloud Systems | ITEC 401 | 3 | الخامس | ITEC 380
+Design and Programming of Databanks | ITEC 451 | 3 | السادس | ITEC 401
+Human Computer Interaction | ITEC 460 | 3 | الخامس | ITEC 380
+IT Project Management | ITEC 491 | 3 | الخامس | ITEC 380
+Information Technology Practicum | ITEC 492 | 1 | صيف ٢ | ITEC 351 ITEC 340 ITEC 380 تدريب في سوق العمل يتم على ٨ أسابيع عمل وبعد ساعات لا يقل عن ١٢٥ ساعة
+IT Major Project | ITEC 499 | 3 | السادس | ITEC 351 ITEC 340 ITEC 380
+Calculus I | MATH 210 | 3
+Linear Algebra | MATH 220 | 3
+Introduction to Machine Learning | ITEC 320 | 3 | MATH 210 MATH 220 STAT 207
+Deep Learning | ITEC 421 | 3 | ITEC 320
+Artificial Intelligence | ITEC 422 | 3 | ITEC 320
+General Biology and Evolution | BIOL 201 | 4 | Co. ENGL 201 or ≥ C grade in ENGL 200
+Molecular Genetics and Genomics | BIOL 310 | 4 | BIOL 201
+Cell Biology and Development | BIOL 320 | 4 | BIOL 310
+Contemporary Healthcare Issues | BIOL 220 | 3 | ITEC 202 BIOL 202
+Basics of Clinical Digital Health | ITEC 470 | 3 | BIOL 220
+Major Project I | ITEC 498 | 1 | ITEC 380
+
+(١) على نحو استرشادي.
+(٢) تحدد المقررات الممهدة والمتزامنة للحالات الخاصة وتقدم بهذه خطة موثقة من عميد الكلية. بناءً على توصية خطية من الجهة العلمية/الأكاديمية صاحبة ورئيس القسم الأكاديمي، لجنة علمية مختصة...، وذلك بحسب مسارات انتقال الطلاب أو تبعاً لمبرور بالجهة العلمية الخاصة بكل منهم

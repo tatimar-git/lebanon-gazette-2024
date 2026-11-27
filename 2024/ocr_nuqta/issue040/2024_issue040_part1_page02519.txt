@@ -1,0 +1,68 @@
+[ترويسة الصفحة حسب بيانات الموقع الرسمي: العدد ٤٠ - ٢٠٢٤/١٠/٣ - الصفحة ٢٥١٩]
+الجريدة الرسمية - العدد ٤٥٠ - ٢٠٢٤/١٠/٠٣
+٢٥١٩
+057-07414562
+image here
+057AMS07414562
+Air Waybill
+Not Negotiable
+Shipper's Name and Address
+UNFPA
+UN CITY
+MARMORVEJ 51
+COPENHAGEN 81 2100 DK
+Shipper's Account Number
+Issued by:
+AIR FRANCE
+LE CHAPITRE - 2 AVE DU DR
+GRYNFJGELZAC DE BASSO CAMBO, 95747, ROISSY CDG CED
+Consignee's Name and Address
+MINISTRY OF PUBLIC HEALTH, UNFPA LEBANON
+13TH FLOOR, THE QUBIC BUSINESS CEN, DACUD AMMOUN
+STREET, HORSH TABET, SIN EL FIL, MATEN GREAT
+BEIRUT LB
+TE (961) 70 111 652
+Consignee's Account Number
+Accounting Information
+RA - NLRA/00514-00/019
+SPX/KCGNS16-09-2024/13:58
+Loading Carrier's Agent Name and City
+WALKER INTERNATIONAL TRANSPORTATION (NETHERLANDS)
+SCHIPHOL
+Agent's DATA Code
+57-4 5351/1113
+Account No.
+Place of Departure (Place of First Carrier) and Required Routing
+AMSTERDAM
+Reference Number
+C00096602
+Optional Shipping Information
+
+Declared Value for Carriage | Declared Value for Customs
+Currency | EUR | CKT | PP | MTL | Other | X
+From | AF | to | BEY | By | By
+Arrival at Destination | KL | Sailing and Destination | CDG
+Amount of Insurance | XXX | INSURANCE - If Carrier collects insurance, and such insurance is required in accordance with the conditions thereof, indicate amount to be insured in figures in box marked "amount of insurance".
+Required Flight Number | KL8625/19 | BEIRUT
+
+Handling Information NOTIFY: UNFPA LEBANON, 13TH FLOOR, THE QUBIC BUSINESS CENTER, DACUD AMMOUN STREET, HORSH TABET, SIN EL FIL, MATEN GREAT BEIRUT LEBANON, TE: (961) 70 111 652, SARSAMGUNFPA.ORG, KALLAS@UNFPA
+
+801
+X
+
+Nature and Quantity of Goods (and Dimensions or Volume) | Total | Charge | Rate | Chargeable Weight | HS Code Commodity Name No. | % | Gross Weight | No. Of Pieces QCP
+MEDICAL SUPPLIES NOT RESTRICTED DIMS 120x80x139 CM x 10 DIMS 120x100x151 CM x 10 DIMS 120x80x140 CM x 1 WS0014749 PS 533007 - LBN-24-0185 NOT STACKABLE KEEP AWAY FROM DIRECT SUNLIGHT AT ALL TIMES | 23170.30 | 2.63 | 8810.0 | 8810.0 K | 21
+
+Prepaid | Collected | Unpaid Charge | 23170.30
+VAT Charge
+Tax
+Total Other Charges Due Agent
+Total Other Charges Due Carrier
+Total Prepaid | Total Collected | Total Pending
+23170.30
+Currency Conversion Rate | Exchange Rate | For Carrier's use only at Destination
+WALKER INTL TRANS (NL) B.V. AS AGENT FOR THE CARRIER: AIR FRANCE 18-Aug-24 NIEUW VENNEP WALKER INTERNATIONAL TRANSPORTATION Executed on (Date) | at (Place) | Signature of Issuing Carrier or its Agent
+Total Prepaid Charges | Charges at Destination | For Carrier's use only at Destination
+
+057-07414562
+Email Copy

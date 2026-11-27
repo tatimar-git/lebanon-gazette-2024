@@ -1,0 +1,16 @@
+[ترويسة الصفحة حسب بيانات الموقع الرسمي: العدد ٣٨ - ٢٠٢٤/٩/١٩ - الصفحة ٢٣٥٢]
+الدعم المقدم من قبل مشروع مكافحة الفساد من أجل تعزيز الثقة بلبنان في برنامج الأمم المتحدة الإنمائي/الهيئة الوطنية لمكافحة الفساد
+معدات وتجهيزات معلوماتية
+
+رقم الفاتورة | تاريخ الفاتورة | السنة | الخدمات والأدوات المقدمة | التوصيف | الكمية | القيمة بالدولار الأمريكي (بدون القيمة المضافة) | اسم المستشار/الشركة
+1 | شباط | 2023 | ت ( (server) | Nutanix NX-1065-G8, 3 Nodes, 72 Cores, 1152GB RAM, 84TB Raw (55 TB after Compression and duplication) with BF2 and N41 | 1 | 167,000.00 $ | PRO IT
+2 | آذار | 2023 | تكوين وتحميل الخادم Server configuration | Configuration 1- NX1065 - security ADD ON including encryption for one device (3 licenses per device) Security additional feature for the NX - 1065 GB hardware appliance (1 - Node cluster) | 8,400.00 $ | PRO IT
+3 | آذار | 2023 | تكوين وتحميل الخادم Server configuration | Configuration 2 - NX1065 - security ADD ON including encryption for one device (3 licenses per device) Security additional feature for the NX - 1065 GB hardware appliance (1 - Node cluster) | 8,400.00 $ | PRO IT
+4 | فبراير | 2023 | تكوين وتحميل الخادم Server configuration | Configuration 3 - NX1065 - security ADD ON including encryption for one device (3 licenses per device) Security additional feature for the NX - 1065 GB hardware appliance (1 - Node cluster) | 8,400.00 $ | PRO IT
+5 | آذار | 2023 | جهاز عرض | OPTIMA X343 | 1 | 300.00 $ | Ultratechnology
+آذار | 2023 | شاشة عرض | 200 X 200 CM | 1 | 295.00 $ | Ultratechnology
+6 | أيار | 2023 | كمبيوتر محمول ومشاراته | HP laptop Intel core i7, 16G RAM, 500GB NVME, WINDOWS 11, Office 2021 3 Years warranty 1 MK295 1 Logitech H340 USB 1 Laptop bag 4 W2070 compatible HP 2 SEAGATE EXT 1TB | 1 | 1,005.00 $ | BTS
+7 | آذار | 2024 | تجهيزات لربط شبكة المعلومات ولأمن وحماية المعلوماتية | PoE Access switches, Core switches, wireless access points, firewall, SFP modules. | 1 | 49,548.00 $ | Ultratechnology
+8 | شباط | 2024 | كابلات شبكة المعلومات وكابلات الألياف الضوئية ومفروهن طاقة وتجهيزات تبريد لمرفق الخادم وكابلات مراقبة | Low current cabling implementation - [Data, UPS and EDI outlets] 6 Outdoor Bullet Camera Vandal Proof 23 Indoor Dome Camera Vandal Proof 1 Monitoring screen 1 Network Video Record 1 HDMI & USB EXTENDER 1 UPS System - 60 KVA UPS with batteries for One 15 min at 65% Load 2 AC unit 24000 BTU Inverter 2 AC unit 18000 BTU Inverter 1 Server Room and UPS room preparation | 1 | 52,320.70 $ | Ultratechnology
+
+العدد ٣٨ - ٢٠٢٤/٩/١٩

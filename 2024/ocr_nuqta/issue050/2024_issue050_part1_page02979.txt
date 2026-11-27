@@ -1,0 +1,11 @@
+الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+٢٩٧٩
+6. Deliverables
+A standard set of end of line products are created for customer review after acquisition of a seismic sequence. These materials are archived to suitable medium throughout the duration of the project and can be provided to the customer once the survey is complete. Typical example material includes but not limited to the gAS EOL plots, the observer/seismic log, and QC Reporter (providing a snapshot of Viper displays reviewed during the line).
+The field deliverable, created on board, is a Navigation merged H-RAW, G-RAW SEG-Y product with edits flagged in the headers. All other deliverables, including the P-UP, are normally created onshore in one of the TGS Imaging regional centers. Please see definitions below:
+■ Navigation merge is a process where the raw seismic data is merged with the processed navigation data. The source and receiver positions are loaded to the seismic data.
+■ H-RAW means raw GeoStreamer hydrophone data (pressure data).
+■ G-RAW means raw GeoStreamer velocity sensor data above 10Hz using invertible low-cut filter after deterministic matching of geusensor (particle velocity) to hydrophone (pressure) sensor response.
+■ P-UP means up-going pressure wavefield data.
+■ SEG-Y means the standard data format for the field deliverables (Rev 2.0).
+An end of project TGS Project Report will also be created, containing the following items amongst others: Outline of QC products, processing tests, processing sequence, deliverables, hardware / software listing etc., personnel, acquisition configuration, sample copy of observers logs, a list of lines, geological / geophysical objectives, general aims, problems, and achievements.

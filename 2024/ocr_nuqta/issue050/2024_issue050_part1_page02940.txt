@@ -1,0 +1,39 @@
+٢٩٤٠ الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+جدول رقم ١: المنهاج الخاص بقرار الاعتراف بدراسات وشهادات الطلاب الملتحقين لمتابعة برنامج الإجازة الجامعية (بكالوريوس) في "التغذية وعلوم الغذاء" في كلية العلوم الصحية في الجامعة الأميركية للعلوم والتكنولوجيا، في ما خص الأعوام الجامعية خريف ٢٠١٥ - ربيع ٢٠٢٢.
+
+المجموعات/الوحدات الشريسية | الفئة | المقرر المادة | للفصل الدراسي(١) | المقررات المهددة والمتزامنة (Co)(١) | ملاحظات
+الاسم | الرمز | عدد الأرصدة
+مواد عامة اختيارية ضمن متطلبات الجامعة | 6 | تجدها الجامعة بموجب لائحة رسمية مطبقة من ضمن موادها، وتودع نسخة عنها للمديرية العامة للتعليم العالي في الشهر الأول من تاريخ نفاذ هذا القرار. | ؟/ أرصدة في الفصل الأول ؟/ أرصدة في الفصل الرابع
+مواد عامة إلزامية ضمن متطلبات الجامعة | 18 | 28 | Computer Literacy | CSI 200 | 3 | الأول | ENG 020
+Composition and Rhetoric I | ENG 201 | 3 | الأول | ENG 100 or ENG 200
+Composition and Rhetoric II | ENG 202 | 3 | الثاني | ENG 201
+English Communication Skills | ENG 205 | 3 | الثاس | ENG 202
+Work Ready Now | HMS 300 | 3 | الثاس | ENG 201
+مواد إلزامية أساسية يستلزمها الاختصاص | 28 | 47 | Cells and Molecules | BIO 210 | 3 | الأول | ENG 001
+Cells and Molecules Laboratory | BIO 210L | 1 | الأول | Co. BIO 210
+Introduction to Physiology | BIO 213 | 3 | الثاني | ENG 001
+Introduction to Physiology Laboratory | BIO 213L | 1 | الثاني | Co. BIO 213
+Introduction to Microbiology | BIO 310 | 3 | الثالث | BIO 210
+Biostatistics and Epidemiology | BIO 320 | 3 | الثالث | ENG 001- MAT 200X or MAT 105
+General Pathology | BIO 420 | 3 | الثالث | BIO 213
+Chemical Principles and Analysis | CHE 205 | 3 | الأول | ENG 001
+Chemical Analysis Laboratory | CHE 205L | 1 | الأول | Co. CHE 205
+Chemical Principles and Analysis Problem Solving | CHE 205P | 0 | الأول | Co. CHE 205
+مواد إلزامية في الاختصاص | 47 | Organic Chemistry I | CHE 210 | 3 | الثاني | CHE 205
+Organic Chemistry Laboratory | CHE 210L | 1 | الثاني | Co. CHE 210
+Introduction to Biochemistry | CHE 220 | 3 | الرابع | CHE 210
+Process of Research | CLS 470 | 1 | الثاس | ENG 202
+Human Nutrition I | NFS 201 | 3 | الثاني | ENG 001
+Principles of Food Science | NFS 210 | 3 | الثاني | ENG 001
+Food Processing | NFS 220 | 3 | الثالث | NFS 210
+Food Chemistry | NFS 230 | 3 | الرابع | CHE 210
+Food Chemistry Laboratory | NFS 230L. | 1 | الرابع | Co. NFS 230
+Nutrition in the Life Cycle | NFS 240 | 3 | الثالث | NFS 201
+Community Nutrition | NFS 260 | 3 | الرابع | NFS 201
+Nutritional Status Assessment | NFS 290 | 3 | الرابع | NFS 201
+Human Nutrition II | NFS 301 | 3 | الثالث | NFS 201
+Food Microbiology | NFS 310 | 3 | الخامس | BIO 310
+Food Microbiology Laboratory | NFS 310L. | 1 | الخامس | Co. NFS 310
+Menu Planning | NFS 320 | 1 | الرابع | Co. NFS 290
+Food Analysis | NFS 330 | 3 | الخامس | CHE 220 NFS 230
+Food Analysis Laboratory | NFS 330L. | 1 | الخامس | Co. NFS 330

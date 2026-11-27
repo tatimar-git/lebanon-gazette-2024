@@ -1,0 +1,47 @@
+الجريدة الرسمية العدد ٢٢ ٢٠٢٤/٥/٣٠
+١٢٤٥
+المنهاج الخاص بقرار الاعتراف ببرنامج الإجازة الجامعية (بكالوريوس) في "البصريات وقياس النظر" في كلية الصحة في جامعة العائلة المقدسة، في ما خص الطلاب المنتميين إلى السنة الأولى من هذا البرنامج في الاختصاص المذكور، ابتداءً من العام الجامعي ٢٠١٨-٢٠١٩.
+
+المجموع العام الوحدات التدريبية | المقرر السنة | عدد الأرصدة | الفصل الدراسي١ | المقررات الممهدة والمتزامنة (C0)١ | ملاحظات
+الفئة | مجموع الأرصدة | الاسم | الرمز
+مواد عامة إلزامية ضمن متطلبات الجامعة | 15 | Informatique | MIS 200 | 3 | الثالث
+Ethique et professionnalisme | ETH 200 | 3 | الخامس
+Méthodologie de la recherche | RCH 200 | 3 | السادس
+Droit général | DRT 200 | 3 | السابع
+Communication et culture générale | CUL 200 | 3 | الثامن
+مواد إلزامية أساسية يستلزمها الاختصاص | 20 | Biologie | BIO 307 | 1 | الأول
+Anatomie-physiologie | BIO 308 | 3 | أولون
+Microbiologie générale + TP | BIO 306 | 3 | أولون
+Physique | PHY 300 | 1 | أولون
+Biophysique | PHY 305 | 1 | أولون
+Biostatistique | STA 300 | 3 | السابع
+Chimie générale + TP | CHM 320 | 3 | أولون
+Biochimie structurale | CHM 322 | 3 | الثاني
+Pathologies générales | BIO 309 | 2 | الثاني | BIO 308
+مواد إلزامية في الاختصاص | 82 | Soins infirmiers fondamentaux en optique et optométrie | OPM 300 | 1 | أولون
+Optique générale | OPM 301 | 3 | أولون
+Lunettes et technologie des verres I | OPM 304 | 3 | الثاني
+Anatomie et physiologie oculaire | OPM 310 | 3 | الثاني
+Microbiologie et immunologie oculaires | OPM 311 | 2 | الثاني | BIO 306
+Instrumentation | OPM 302 | 1 | الثالث
+Optique physiologique | OPM 303 | 3 | الثالث
+Lunettes et technologie des verres II | OPM 305 | 3 | الثالث | OPM 304
+Ergonomie visuelle et perception | OPM 312 | 3 | الثالث | OPM 310
+Pharmacologie oculaire | OPM 313 | 1 | الثالث | PHA 300
+Management et qualité dans un magasin d'optique | OPM 330 | 3 | الثالث
+Contactologie I + TP | OPM 306 | 3 | الرابع | OPM 304
+Pathologies oculaires I | OPM 314 | 3 | الرابع | OPM 310
+Optométrie I: introduction à l'optométrie + TP | OPM 320 | 3 | الرابع
+Comptabilité en optique et optométrie | OPM 331 | 2 | الرابع
+Marketing en optique et optométrie | OPM 332 | 2 | الرابع
+Contactologie II + TP | OPM 307 | 4 | الخمس | OPM 304
+Pathologies oculaires II | OPM 315 | 3 | الخمس | OPM 310
+Optométrie II: optométrie générale + TP | OPM 321 | 4 | الخمس | OPM 320
+Orthoptie + TP | OPM 308 | 4 | السدس | OPM 321
+Optométrie III: optométrie clinique + TP | OPM 322 | 4 | السدس | OPM 320
+Déficience visuelle | OPM 316 | 3 | السابع | OPM 322
+Réadaptation et handicap visuel | OPM 317 | 1 | السابع | OPM 320
+Optométrie IV: optométrie pédiatrique - TP | OPM 323 | 4 | السابع | OPM 320
+Techniques diagnostiques avancées | OPM 318 | 3 | الثامن | OPM 322
+Optométrie clinique avancée | OPM 324 | 2 | الثامن | OPM 322
+Projet de recherche en optique et optométrie | OPM 390 | 3 | الثامن | RCII 200 STA 300

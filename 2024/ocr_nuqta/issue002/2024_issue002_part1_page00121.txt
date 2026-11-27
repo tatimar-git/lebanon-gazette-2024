@@ -1,0 +1,38 @@
+١٢١ الجريدة الرسمية - العدد ٢ - ٢٠٢٤/١/١١
+تابع جدول رقم ٢ : انتخاب مناصب بقرار الاعتراف ببرنامج الإدارة المجتمعية (بكلوربيوس) في "دولة الأعمال" في كلية إدارة الأعمال في الجامعة الدولية في بيروت، في ما خص للمناصب المنتخبة بهذا البرنامج في الاخصاس المذكور، ابتداءً من العام الجامعي ٢٠١٣-٢٠١٤.
+
+المجموعة/الوحدات التدريبية | المقرر/المادة | الفصل الدراسي(1) والمتزامنة (Co) | المقترحات الممجة | ملاحظات
+الاسم | الرمز | عدد الأرصدة
+مواد إلزامية في تركيز: "المعلوماتية الإدارية" | 24 | Business Telecommunications | BMIS 310 | 3 | الزمان | BMIS 300
+Data Management | BMIS 320 | 3 | الفصل | BMIS 300
+Operations Management | BMIS 360 | 3 | الخلاص | BSTA 205
+System Analysis and Design | BMIS 370 | 3 | الزمان | BMIS 300
+Programming Fundamentals | BMIS 375 | 3 | الفصل | BMIS 300
+E-Business | BMIS 400 | 3 | الفصل | BMIS 300
+Business Intelligence Systems | BMIS 497 | 3 | الخلاص | BMIS 300
+Senior Project in Management Information Systems | BMIS 498 | 3 | الفصل | BMIS 310 BMIS 320 BMIS 360 BMIS 370 BMIS 375 BMIS 497
+مواد إلزامية في تركيز: "الإدارة المالية والمحاسبة" | 24 | Introduction to Hospitality and Tourism Industry | BHTM 305 | 3 | الفصل | ENQL 151
+Lodging Management (*Opera) | BHTM 311 | 3 | الخلاص | BHTM 305
+Business Etiquette and Protocol | BHTM 315 | 3 | الزمان | ENQL 151
+Restaurant Management | BHTM 340 | 3 | الزمان | BHTM 305
+Food and Beverage Cost Control | BHTM 425 | 3 | الخلاص | BACC 200 BHTM 305
+Conventions and Meetings Management | BHTM 445 | 3 | الفصل | BMGT 200
+Revenue Management | BHTM 495 | 3 | الخلاص | BACC 200 BHTM 305
+Senior Project in Hospitality and Tourism Management | BHTM 498 | 3 | الفصل | BHTM 305 BHTM 311 BHTM 315 BHTM 340 BHTM 425 BHTM 495
+مواد إلزامية في تركيز: "الاقتصاد" | 24 | History of Economic Thought | BECO 320 | 3 | الفصل | BECO 210
+Intermediate Economics | BECO 360 | 3 | الزمان | BECO 210 BECO 260
+Growth Models and Policy | BECO 365 | 3 | الخلاص | BECO 210 BECO 260
+International Trade Theory and Policy | BECO 370 | 3 | الزمان | BECO 210 BECO 260
+Environmental Economics | BECO 375 | 3 | الخلاص | BECO 210 BECO 260
+Managerial Economics | BECO 420 | 3 | الخلاص | BECO 210 BECO 260
+Economics of Money and Banking | BECO 470 | 3 | الفصل | BECO 210 BECO 250
+Senior Project in Economics | BECO 498 | 3 | الفصل | BECO 320 BECO 360 BECO 365 BECO 370 BECO 375 BECO 420
+Advanced Financial Management | BFIN 350 | 3 | الزمان | BFIN 300
+Financial Reporting and Analysis | BFIN 360 | 3 | الفصل | BFIN 300
+International Banking and Finance | BFIN 430 | 3 | الخلاص | BFIN 300
+Banking Operations | BFIN 440 | 3 | الزمان | BFIN 300
+Personal Finance | BFIN 460 | 3 | الخلاص | BFIN 300
+Financial Markets and Institutions | BFIN 470 | 3 | الخلاص | BFIN 300
+Financial Investments | BFIN 475 | 3 | الفصل | BFIN 300
+Senior Project in Finance | BFIN 498 | 3 | الفصل | BFIN 350 BFIN 360 BFIN 430 BFIN 440 BFIN 460 BFIN 470
+مواد إلزامية في تركيز: "علوم المالية" | 24

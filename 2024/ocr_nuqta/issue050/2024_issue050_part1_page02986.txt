@@ -1,0 +1,22 @@
+٢٩٨٦ الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+
+Lat | Long | y | x
+33° 29' 29.97462241" N | 034° 32' 42.27902586" E | 3706862.639 | 643535.7223
+33° 18' 21.85808495" N | 034° 28' 00.00000136" E | 3686178.668 [غير مؤكد، قراءة أخرى: 3585178.668] | 636540.8417
+33° 31' 51.17000251" N | 033° 46' 08.78600201" E | 3710407.701 | 571414.1244
+33° 36' 08.01000128" N | 033° 50' 25.29999843" E | 3718369.345 | 577966.4756
+33° 37' 13.10000145" N | 033° 51' 30.30999753" E | 3720387.789 | 579625.3011
+33° 38' 39.99999808" N | 033° 53' 39.99999875" E | 3723092.534 | 582943.8698
+33° 39' 39.46867086" N | 033° 54' 22.36232061" E | 3724933.623 | 584019.0598
+
+X / Y : UMT 36N WGS84
+Long / Lat : GCS WGS84
+c) The purpose and nature of the activities applied for;
+The Acquisition of a broadband marine 3D seismic survey over a portion of offshore Lebanon Block 8. Acquiring full fold seismic data (and associated Gravity and Magnetics Data), over an area of ~1,307 sq km. Acquisition with a TGS Ramform vessel and accompanying Support vessel and Escort vessel.
+The integration of this survey with all existing 3D seismic data offshore Lebanon to create a unique unified dataset for the promotion of the offshore areas in upcoming license rounds.
+d) The proposed plan for the activities;
+Upon approval of the relevant permits and permissions being granted, completion of discussions and final agreements with the associated stakeholders, and over 50% or more pre-funding from customers with the remainder funded by TGS, and subject to appropriate security risk assessments etc. TGS' seismic vessel to mobilize for a Multi-Client 3D seismic survey over Block 8 offshore Lebanon. The survey duration is estimated to be in the order of one calendar month, subject to weather and other environmental conditions. On completion of the acquisition of the acquired data, the TGS seismic vessel to demobilize and leave the area offshore Lebanon.
+Once data is delivered to the imaging center it will be processed through state-of the art PSDM technology and integrated with all of the existing 3D data available in offshore Lebanon.
+e) The applicant’s technical qualifications and experience;
+TGS is a proven partner of many African and Mediterranean governments and has been working closely together with respective ministries since the early 1990’s to promote available seismic data, attract investment and, where applicable, reprocess and rejuvenate existing data, or acquire new seismic data.
+TGS have had an excellent collaborative relationship with Lebanon and the LPA since 2006. This working relationship has covered all areas of technical, business development and sales support from reprocessing and merging of vintage data to new acquisition and processing and interpretation. We have undertaken training, marketing and promotion, and License Round support over the years utilizing our large client network, innovative sales models, professional sales and marketing resources, and technical expertise.

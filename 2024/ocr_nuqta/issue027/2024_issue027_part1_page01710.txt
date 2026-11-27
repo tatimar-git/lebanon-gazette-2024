@@ -1,0 +1,46 @@
+١٧١٠ الجريدة الرسمية - العدد ٢٧ - ٢٠٢٤/٧/٤
+المنهاج الخاص بقرار الاعتراف ببرنامج الإجازة الجامعية في "هندسة المعلوماتية والاتصالات" (دبلوم مهندس) في كلية الهندسة في جامعة الحكمة، فيما خص الطلاب الملتحقين بهذا البرنامج في الاختصاص المذكور اعتباراً من العام الجامعي ٢٠١٧-٢٠١٨.
+
+المجموعات/ الوحدات الدراسية | المقرر / المادة | الفصل الدراسي(1) | المقررات الممهدة والمتزاملة (Co) | ملاحظات
+الفئة | مجموع الأرصدة | الاسم | الرمز | عدد الأرصدة
+مواد عامة إلزامية ضمن متطلبات الجامعة | 9 | Project Management | MGT 223 | 3 | الخامس
+Communication and Scientific Culture | EGN 216 | 3 | ثاني
+Writing Skills | ENG 200 | 3 | الثالث
+مواد عامة اختيارية ضمن متطلبات الجامعة | 9 | تحدها الجامعة بموجب لائحة رسمية معلنة من ضمن مواعيد وتوزيع نسخة عنها المنهجية العامة للتعليم العالي في الشهر الأول من تاريخ نفاذ قرار الاعتراف. | ١٢: أرصدة في الفصل السادس ١٢: أرصدة في الفصل السابع ١٢: أرصدة في الفصل الثامن
+مواد مشتركة إلزامية ضمن متطلبات الكلية | 20 | Engineering Economics and Financial Management | MGT 225 | 3 | ثامن
+Law and Ethics for Engineers | LAW 230 | 3 | ثامن
+Introduction to Computer and Software Tools | CSC 200 | 3 | الأول
+Computer Programming I - C++ | CSC 201 | 3 | ثاني
+Engineering Mechanics - Dynamics | PHY 200 | 3 | الأول
+General Physics Laboratory | PHY 202 | 1 | الأول | PHY 200
+Electric Circuits | PHY 204 | 3 | ثاني
+Electric Circuits Laboratory | PIY 205 | 1 | ثاني
+General Chemistry I | CHM 200 | 3 | الأول
+General Chemistry I Laboratory | CHM 201 | 1 | الأول | CHM 200
+مواد أسسية في الرياضيات والعلوم يمتلزمها الاختصاص | 37 | Calculus for Engineers I | MAT 201 | 3 | الأول
+Algebra for Engineers I | MAT 202 | 3 | الأول
+Calculus for Engineers II | MAT 211 | 3 | الثاني | MAT 201
+Algebra for Engineers II | MAT 212 | 3 | الثاني | MAT 202
+Probability and Statistics for Engineers | MAT 302 | 3 | ثالث | MAT 201
+Calculus for Engineers III | MAT 321 | 3 | ثالث | MAT 201
+Numerical Analysis | MAT 331 | 3 | أربع | MAT 212
+Electronics | ELE 300 | 3 | الأثاث | PHY 204
+Electronics Laboratory | ELE 301 | 1 | الثالث | PHY 204 PHY 205 ELE 300
+Digital Electronics | ELE 402 | 3 | الخامس | CTE 320
+Digital Electronics Laboratory | ELE 403 | 1 | الخامس | ELE 402
+مواد هندسية إلزامية في الاختصاص | 61 | Electrostatics and Electromagnetism | PHY 302 | 3 | الرابع | MAT 211 PHY 200
+Optics and Electromagnetism Laboratory | PHY 305 | 1 | الرابع | PHY 202 PHY 302
+Computer Programming II - C++ | CSC 300 | 3 | الثالث | CSC 201
+Computer Programming - C++ Laboratory | CSC 301 | 1 | الثالث | CSC 201 CSC 300
+Introduction to Computer and Telecom Engineering | CTE 200 | 2 | الثاني
+Logic Design | CTE 320 | 3 | الرابع | CSC 201 PHY 204
+Applied Electronics | CTE 330 | 3 | الرابع | ELE 300
+Applied Electronics Laboratory | CTE 331 | 1 | الرابع | ELE 301 CTE 330
+Network Engineering | CTE 400 | 3 | السابع | CSC 300 CTE 340 CTE 320
+Operating Systems | CTE 402 | 3 | الخامس | CSC 300
+Data Structures and Algorithms | CTE 403 | 3 | الخامس | CSC 300
+Signals and Systems Analysis and Processing | CTE 410 | 3 | الخامس | MAT 321 MCE 403
+MATLAB Application in Signals Processing | CTE 411 | 1 | الخامس | CSC 201 CTE 410
+Software Engineering | CTE 420 | 3 | السابع | CSC 300
+Engineering Graphing | CTE 444 | 3 | الثامن
+Microprocessors and Microcontrollers | CTE 510 | 3 | الثلاثين | ELE 402

@@ -1,0 +1,23 @@
+٢٩٦٢ الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+
+Preamp gain (dB) | Computed resistance assuming group capacitance (Kohm)
+0 | 260 - 310
+6 | 260 - 310
+12 | 260 - 310
+18 | 260 - 310
+24 | 260 - 310
+
+Table 6. The instrument test specifications for the hydrophone leakage test at various production gain settings.
+The geophone groups have so little combined resistance that any leakage is much higher in impedance than the group impedance. In addition, the ambient noise levels are very high when towing the streamer, so little can be derived from this test.
+4.6. Common Mode Rejection & Crossfeed Isolation Tests
+During manufacturing, every acquisition unit (AU) is tested to verify it has acceptable common mode rejection and crossfeed isolation. Unfortunately, the AU design does NOT permit common mode rejection or crossfeed isolation tests once the AU is built into a streamer section. Table 7 shows the instrument test specifications for the common mode rejection and crossfeed isolation tests as used in manufacturing.
+
+Common Mode Rejection Ratio (dB down) | Crossfeed isolation (dB down)
+85 | 90
+
+Table 7: The instrument test specifications for the common mode rejection and crossfeed isolation test as used in manufacturing.
+5. Acquisition Verification Systems
+The TGS Acquisition Verification systems produce a set of standard products for general seismic data investigations and data archiving. The recording and QC system gAS not only records the seismic data but also generates the 'on-line' QC displays which the observers and geophysicists monitor in real time. Further near real time 'off-line' QC is carried out using the Viper system to fully investigate anything highlighted during acquisition.
+A production processing SPArk system is also available on each vessel. This system compliments acquisition with line acceptance testing e.g., due to seismic interference, to aid in the efficient delivery of the acquisition project, as well as creating the field deliverables.
+5.1. Software
+The gAS (generic Acquisition System) system is TGS's recording system and produces several automated on-line QC displays. The Viper system performs the near real time 'off-line' QC, with both packages using a common source code. The interaction between gAS and Viper provides a seamless system. The SPArk processing system reads Viper format navigation/seismic merged disk data for input to subsequent line-by-line processing. In addition, both the near real time 'off-line' QC system and the processing SPArk system have workstations capable of running holoSeis™, the TGS 3D visualization suite. Selected output from Viper and SPArk can be viewed off-line using this tool. All vessels will also

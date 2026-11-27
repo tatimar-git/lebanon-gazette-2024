@@ -1,0 +1,34 @@
+٢٩٥٤ الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+1. TGS GeoStreamer Data Acquisition System
+TGS is using both the GeoStreamer data acquisition system and the gAS recording system. Please see the specifications listed in Table 1.
+Recording System Specification
+
+Manufacture and type | GeoStreamer Data Acquisition System + gAS (24-bit recording system).
+Data Channels / streamer | Maximum Number of Channels: 1,920
+Recording Tape Format | Internal TD format (time based continuous recording), 3592 cassette
+High Cut Filter Available | 428 Hz, 214 Hz, 107 Hz @ 341 dB/Oct
+Low cut filters available | Hydrophone: 3.04Hz @7.5dB /Oct, 4.4Hz @ 1dB / Oct Velocity (geophone): TGS Confidential
+
+Dynamic Range
+130dB @ 107.5Hz Bandwidth
+127dB @ 215 Hz
+124dB @ 430 Hz
+121dB @ 860Hz
+A/D Converter
+Oversampled Sigma-Delta Conversion feeding Digital Decimation Filter
+Single Converter per Seismic Channel
+Distortion
+Total Harmonic Distortion -118dB (Typical)
+Intermodulation Distortion -115dB (Typical)
+Power Consumption
+<250mW / channel
+Streamer channel allocation convention
+Lowest channel number closest to vessel
+Source mask convention
+STARBOARD source fires on ODD shots
+Instrument cycle time
+Mean cycle time dependent on vessel bottom speed.
+Recycle time for instruments 0mS.
+Minimum cycle time for source is 7 seconds due to
+largest gun (250 cu. in.) refill time.
+Table 1: Specifications of the GeoStreamer data acquisition system.

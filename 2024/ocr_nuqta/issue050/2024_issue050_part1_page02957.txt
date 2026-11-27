@@ -1,0 +1,17 @@
+الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+٢٩٥٧
+dataset. In fact, some advanced shot-blending acquisition techniques rely on continuously recorded data.
+3.2. Overlapping Shot Records
+The continuous records passed downstream from the gAS recording system are assembled near-real time and regular online QC currently remains largely the same as for conventional acquisition, based on shot event-based records.
+Time Based Samples (TDo)
+Event Based Records
+Figure 3. Continuous traces TDo dataset to shot event-based records
+Depending on the survey design, each individual shot record may be longer than the time interval between shots. This means that the part of each record that is overlapped with another will be stored twice, once as the end of the preceding record and a second time as the beginning of the following record, as illustrated in Figure 4.
+Overlapping shots
+Shot N-1
+Shot N
+Shot N+1
+Figure 4: An illustration of overlapping shots: Shot N-1 , Shot N and Shot N+1
+3.3. Dealing With the Direct Arrival
+Whenever shot records overlap, the direct arrival of the following shot will enter the preceding shot record (Figure 5) and will have to be dealt with in processing.
+In most cases it is sufficient to use the LMO+FK method to remove the energy from the subsequent shot event. If overlapping shots are being acquired in (relatively) shallow water, not only the direct arrival but

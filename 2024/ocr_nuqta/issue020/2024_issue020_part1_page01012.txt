@@ -1,0 +1,40 @@
+١٠١٢ الجريدة الرسمية - العدد ٢٠ - ٢٠٢٤/٥/١٦
+جدول رقم ٢ : المنهاج الخاص بقرار تجديد الاعتراف ببرنامج الإجازة الجامعية (بكلوريوس) في "الصحافة والإعلام الرقمي" في كلية الإعلام والفنون في جامعة المعارف، في ما خصّ الطلاب المنتسبين الى السنة الأولى من هذا البرنامج في الاختصاص المذكور اعتباراً من العام الجامعي ٢٠٢٣-٢٠٢٤ .
+
+المجموعات/ الوحدات التدريسية | المقرر / المادة | عدد الأرصدة | الفصل الدراسي(١) | المقررات المهددة والمتزامنة (Co) | ملاحظات
+الفئة | مجموع الأرصدة | الاسم | الرمز
+مواد علمية إلزامية ضمن مقتضيات اللجنة | 21 | Business Software Applications | MIT 200 | 3 | الأول | ENG 050
+English Communication Skills I | ENG 201 | 3 | الأول | ENG 100 Pass Placement Test
+English Communication Skills II | ENG 202 | 3 | الثالث | ENG 201
+Arabic Communication skills I | ARB 201 | 3 | الأول | ARB 100
+Arabic Communication skills II | ARB 202 | 3 | الثاني | ARB 201
+Cultural Studies | CST 200 | 3 | الأول
+Math for Liberal Arts | MAT 220 | 3 | الثاني | MAT 200B
+Introduction to Communication Studies | COM 200 | 3 | الثاني | ENG 201
+مواد الزامية أسبوعية مشتركة ضمن مقتضيات الكلية | 27 | Digital Applications Skills | COM 214 | 3 | الثاني | MIT 200 ENG 051
+Mediated Performance Theory and Practice | COM 216 | 3 | الأول | ARB 100 Pass Placement Test
+Research Methods in Communication | COM 230 | 3 | الرابع | COM 200 ENG 201
+New Media Communications | COM 300 | 3 | الرابع | COM 200 ENG 201
+Media Ethics and Law | COM 350 | 3 | الرابع | ARB 201 COM 200
+Intercultural Communication | COM 360 | 3 | الخامس | COM 230 COM 300 ENG 202
+Essentials of Public Relations | APR 210 | 3 | الثالث | ENG 100 Pass Placement Test
+Reporting Practices | JDM 220 | 3 | الثالث | ARB 201 COM 200
+Fundamentals of Speech Communication | COM 240 | 3 | الرابع | ARB 201 COM 216
+مواد إلزامية في الاختصاص | 36 | Introduction to Photography and Cinematography | COM 212 | 3 | الرابع | ENG 051 MIT 200
+Television and Radio Broadcasting | RTV 220 | 3 | الثالث | COM 240
+Editorial and feature writing | JDM 250 | 3 | الخامس | ENG 201 JDM 220
+Multimedia Journalism | JDM 260 | 3 | الخامس | COM 214 COM 300 COM 212
+Digital Journalism: The Convergent Storytelling | JDM 300 | 3 | السادس | JDM 260
+Web Design for Journalists | JDM 345 | 3 | الخامس | COM 300 JDM 220 MIT 200
+Seminar in Journalism and Digital Media | JDM 380 | 3 | الرابع | COM 230 JDM 220
+Journalism and Society: The Lebanese Case | JDM 440 | 3 | السادس | JDM 250
+Newsroom Management | JDM 460 | 3 | السادس | COM 230 ENG 201 JDM 220
+Professional Placement | JDM 497 | 3 | السادس | Junior Standing
+Journalism and Digital Media Capstone Project | JDM 499 | 3 | السادس | Senior Standing
+مواد اختيارية في الاختصاص | 6 | يختار الطالب من ضمن لائحة المواد الاختيارية في الاختصاص لمدرجة في الجدول رقم ٣. | ٣/٤ لائحة في الفصل الثالث ٣/٤ أرصدة في الفصل السادس
+مواد حرة | 9 | تكتدها الجامعة بموجب لائحة رسمية مطلقة من ضمن موادها. | 3 | الرابع | GE 201
+3 | الخامس | GE 202
+3 | السادس | GE 203
+
+(١) على نحو استرشادي.
+(٢) تحدد المقررات المهددة والمتزامنة للحالات الخاصة وتقتل بتهات شخصية موقفة من صعيد الكلية، بناءً على توصية قضية من لجهة الكلية الأكاديمية للصحافة (رئيس القسم الأكاديمي، هيئة علمية مختلقة...)، وذلك بحسب مدارات انتقال الطلاب أو بعد تسيير دورة تدريبية المتعلم الخاصة بكل منهم.

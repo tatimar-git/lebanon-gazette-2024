@@ -1,0 +1,50 @@
+الجريدة الرسمية - العدد ١٣ - ٢٠٢٤/٣/٢٨
+٦٩١
+جدول رقم ١: المنهاج الخاص بقرار الاعتراف ببرنامج الإجازة الجامعية (بكالوريوس) في "التصميم الغرافيكي" في كلية الفنون في الجامعة الدولية في بيروت، فيما خص الطلاب المنتسبين إلى السنة الأولى من هذا البرنامج في الاختصاص المذكور، ابتداءً من العام الجامعي ٢٠١٦-٢٠١٧ ولغاية العام الجامعي ٢٠٢٣-٢٠٢٤ ضمنياً.
+
+المجموعات/الوحدات التدريسية | المقرر/المادة | الفصل الدراسي(1) | المقررات الممهدة والمتراسمة (2)(3) | ملاحظات
+الفئة | مجموع الأرصدة | الاسم | الرمز | عدد الأرصدة
+مواد علمية اختبارية ضمن متطلبات الجامعة | 6 | تحدها الجامعة بموجب لائحة رسمية معلنة من ضمن موادها، وتودع نسخة عنها لتسييرها العامة للتعليم العالي في الشهر الأول من تاريخ نفاذ هذا القرار. | ٢/٣ أرصدة في الفصل الخامس ٢/٣ أرصدة في الفصل السادس
+مواد علمية إلزامية ضمن متطلبات الجامعة | 15 | Arabic Language and Literature | ARAB 200 | 3 | الثالث
+Communication Skills | ENGL 251 | 3 | الثاني | ENGL 201
+Composition and Research Skills | ENGL 201 | 3 | الأول | ENGL 151
+Introduction to Arab - Islamic Civilization | CULT 200 | 3 | الخامس
+Introduction to Computers | CSCI 200 | 3 | الأول | ENGL 051
+Color Theory - Painting | ARTS 210 | 3 | الأول | ENGL 051
+Design Fundamentals - 2D | ARTS 260 | 2 | الأول | ENGL 051
+Design Fundamentals - 3D | ARTS 270 | 3 | الثاني | ARTS 260 ENGL 051 ENGL 101 ARTS 260
+Design Software I | GDES 270 | 3 | الثاني | CSCI 200
+Foundation Drawing I | ARTS 200 | 3 | الأول | ENGL 051
+مواد إلزامية في الاختصاص | 75 | Foundation Drawing II | ARTS 250 | 3 | الثاني | ENGL 051 ARTS 201
+History of Arts | ARTS 215 | 3 | الثالث | ENGL 151
+History of Graphic Design | GDES 315 | 3 | الرابع | ARTS 215
+Illustration II - Story Board | GDES 365 | 3 | الخامس | GDES 394 ARTS 250
+Photography | ARTS 350 | 3 | الرابع | ENGL 151
+Rendering and Perspective Techniques | ARTS 320 | 3 | الثاني | ARTS 310 ENGL 051 ARTS 200
+Theories of Perception | COMM 285 | 3 | الثاني | ENGL 151
+Typography I | GDES 300 | 3 | الثالث | GDES 270 ARTS 320 ENGL 051 ENGL 101 ARTS 260
+Typography II and Art of Calligraphy | GDES 350 | 3 | الرابع | GDES 370 GDES 345 GDES 300
+Advanced Animation | GDES 450 | 3 | السادس | COMM 325
+Animation Software | COMM 325 | 3 | الرابع | GDES 370
+Graphic Design Senior Project | GDES 495 | 4 | السادس | GDES 445
+Graphic Design Software II | GDES 370 | 3 | الثالث | GDES 270
+Graphic Design Studio I | GDES 345 | 4 | الثالث | GDES 270 ARTS 320 ARTS 260
+Graphic Design Studio II | GDES 394 | 4 | الرابع | GDES 370 GDES 345 GDES 360 COMM 285
+Graphic Design Studio III | GDES 445 | 4 | الخامس | GDES 394 GDES 350
+Packaging | GDES 440 | 3 | الخامس | GDES 394 ARTS 270
+Professional Practice | GDES 480 | 2 | السادس | GDES 445
+Web Page Design | GDES 420 | 3 | الخامس | GDES 370
+مواد اختيارية في الاختصاص | 3 | Painting | ARTS 300 | 3 | ENGL 151 | أرصدة في الفصل السادس
+Rhetoric and Persuasion | COMM 220 | 3 | ENGL 101
+Workshop | COMM 225 | 3
+Theories of Mass Media | COMM 255 | 3
+Performance Theory and Practice | COMM 265 | 3
+Sketching for Graphic Design | GDES 355 | 3 | ARTS 250 ARTS 200
+Character Design | GDES 395 | 3
+Creative Advertising | GDES 415 | 3
+Teaching Arts and Crafts | EDUC 230 | 3
+Introduction to Western Civilization | COMM 205 | 3
+Advertising Pitching | ADVR 348 | 3
+
+(1) علي نحو استرشادي.
+(2) تحدد المقررات الممهدة والمتراسمة للحالات الخاصة وتنفذ بانهاءات خطية موقعة من عبد الكلية، بناءً على توصية خطية من لجنة التحشية الأكاديمية لصلاحي (رئيس القسم الأكاديمي، لجنة علمية مختصة...)، وذلك بحسب مسارات انتقال الطلاب أو تبعاً لضرورة/تجربة التعلم الخاصة بكل منهم.

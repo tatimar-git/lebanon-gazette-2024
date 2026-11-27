@@ -1,0 +1,26 @@
+الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+٢٩٦١
+4.3. Harmonic Distortion
+The harmonic distortion test is performed via Input B and TSG Output 1. A 31.25Hz sine wave is used at a level consistent with the selected gain to produce a signal close to full scale. This test is performed with the low-cut filter active. Table 4 shows the instrument test specifications for the harmonic distortion test at the various production gain settings.
+
+Preamp gain (dB) | Total harmonics (dB down from fundamental)
+0 | 106
+6 | 106
+12 | 106
+18 | 106
+24 | 106
+
+Table 4: The instrument test specifications for the harmonic distortion test at various production gain settings.
+4.4. Impulse Response
+The impulse response test is performed via Input B and TSG Output 1. A single sample impulse is applied at a level consistent with the selected gain to produce a pulse close to full scale. This test is performed with the low-cut filter active. Analysis of the signal content in the frequency domain allows the verification of both the high and low-cut filter corners. Table 5 shows the instrument test specifications for the impulse response test at the various production gain settings. Either a 0.75Hz or 3.0Hz low-cut filter can be selected in production, hence the two low-cut specifications below.
+
+Preamp gain (dB) | Low-cut 1 3dB corner (freq Hz, dB down, spec dB) | Low-cut 2 3dB corner (freq Hz, dB down, spec dB) | Mid-band (freq Hz, dB down, spec dB) | High-cut corner (freq Hz, dB down, spec dB)
+0 | 0.75, 3, +/- 0.25 | 3.0, 3, +/- 0.25 | 35, 0, +/-0.25 | 214, 5.5, +/- 0.4
+6 | 0.75, 3, +/- 0.25 | 3.0, 3, +/- 0.25 | 35, 0, +/-0.25 | 214, 5.5, +/- 0.4
+12 | 0.75, 3, +/- 0.25 | 3.0, 3, +/- 0.25 | 35, 0, +/-0.25 | 214, 5.5, +/- 0.4
+18 | 0.75, 3, +/- 0.25 | 3.0, 3, +/- 0.25 | 35, 0, +/-0.25 | 214, 5.5, +/- 0.4
+24 | 0.75, 3, +/- 0.25 | 3.0, 3, +/- 0.25 | 35, 0, +/-0.25 | 214, 5.5, +/- 0.4
+
+Table 5: The instrument test specifications for the impulse response test at various production gain settings.
+4.5. Hydrophone Leakage Test
+The hydrophone leakage test is conducted with the sensors attached to pre-amp input A. The TSG puts a DC voltage on Output 2 and the switches are closed for a period of 512ms and then opened. The decay profile is measured to calculate the resistance of the hydrophone groups and can be analyzed for the affects of leakage. Table 6 shows the instrument test specifications for the hydrophone leakage test at the various production gain settings.

@@ -1,0 +1,42 @@
+١٧٠٨ الجريدة الرسمية - العدد ٢٧ - ٢٠٢٤/٧/٤
+تابع: المنهاج الخاص بقرار الاعتراف ببرنامج الإجازة الجامعية في "الهندسة الكيميائية" (دبلوم مهندس) في كلية الهندسة في جامعة الحكمة، فيما خص الطلاب المتحقين بهذا البرنامج في الاختصاص المذكور اعتباراً من العام الجامعي ٢٠١٧-٢٠١٨.
+
+المنهج/الوحدات التدريبية | الفئة | المقرر/المادة | عدد الأرصدة | الفصل الدراسي(١) | المقررات المعتمدة والمترجمة (Co)(٢) | ملاحظات
+الاسم | الرمز
+مواد هندسية إلزامية في الاختصاص (تابع) | مجموع الأرصدة | Process Simulation Laboratory | CME 543 | 1 | الثامن | CSC 201 CME 530
+Process Design and Control | CME 550 | 3 | التاسع | MCE 404 CME 510
+Introduction to Petroleum Engineering | CME 561 | 3 | الخامس | CME 402
+Engineering Graphing | CTE 444 | 3 | الثامن
+Linear Control Systems | MCE 404 | 3 | الثامن | MAT 212 MAT 321
+Fluid Mechanics | MCE 410 | 3 | الخامس | PHY 340
+Work Experience | CME 399 | 0 | صيف ٢ | MCE 404 | تدريب يتم على ٤ أسابيع عمل وبعدد ساعات لا يقل عن ١٩٠ ساعة.
+Internship I for Mechatronics Engineering | CME 499 | 0 | صيف ١ | MCE 399 | تدريب يتم على ٨ أسابيع عمل وبعدد ساعات لا يقل عن ١٨٠ ساعة.
+Internship II for Mechatronics Engineering | CME 699 | 2 | العاشر | MCE 499 | تدريب يتم على ١٢ أسبوع عمل وبعدد ساعات لا يقل عن ٢٧٠ ساعة.
+Final Year Project for Mechatronics Engineering | CME 698 | 3 | العاشر | Co. MCE 699 | مشروع تخرج يتم على فصل دراسي نصف سنوي.
+مواد هندسية اختيارية في الاختصاص | 16 | Polymer Science | CME 501 | 3 | CME 301 | ٣٢ أرصدة في الفصل السادس ٣٢ أرصدة في الفصل السابع ٣٢ أرصدة في الفصل الثامن ٣٤ أرصدة في الفصل التاسع ٣٢ أرصدة في الفصل العاشر
+Formulation Chemistry II | CME 545 | 3 | CME 540
+Catalytic Processes | CME 560 | 3 | CHM 300 CME 334
+Reservoir Engineering | CME 562 | 3 | CME 530
+Petroleum Refining Techniques | CME 563 | 3 | CHM 300
+Purification of Petroleum Products | CME 564 | 3 | CME 510
+Quality, Hygiene and Safety Laboratory | CME 565 | 1
+Petroleum Characterization Laboratory | CME 566 | 1 | CME 561
+Analysis of Petroleum Products Laboratory | CME 571 | 1
+Introduction to Petroleum Geology | CME 572 | 3 | CME 530
+Industrial Engineering Applied to Cosmetology and Pharmacy | CME 573 | 3 | CME 302 CHM 403
+Process Design for Pollution Control | CME 575 | 3
+Water and Waste Treatment | CME 576 | 3
+Midstream Oil and Gas Fundamentals | CME 577 | 3
+Modeling of Pharmaceutical Cosmetics and Food Production Systems | CME 578 | 3 | CHM 403
+Organic Chemistry in Drug Design | CME 579 | 3 | CHM 403
+Reservoir Characterization and Simulation | CME 580 | 3
+Chemistry and Environment | CME 581 | 3 | CME 334
+Drinking Water and Wastewater Systems | CME 582 | 3
+Analytical Chemistry in Cosmetics Industry | CME 583 | 3 | CME 520
+Fluid Rheology | CME 584 | 3 | CME 303
+Industrial Air and Water Pollution | CME 586 | 3
+Conversion of Petroleum Products | CME 587 | 3 | CME 561
+Industrial Visit for Chemical Engineering | CME 599 | 1 | CME 420
+
+(١) على نحو أمبرشادي.
+(٢) تحدد المقررات المعتمدة والمترجمة لمحلات الخاصة وتنفذ بلبهات خطية موقعة من عبد الخبير بناء على توصية خطية من الجهة العلمية (الأكاديمية لصحة) رئيس القسم الأكاديمي، لجنة علمية مختصة...، وذلك بحسب مسارات انتقال الطلاب أو تبعاً لسيورور/تجربة لتعليم الخصة بكل منهم.

@@ -1,0 +1,41 @@
+٧٢٤ الجريدة الرسمية - العدد ١٣ - ٢٠٢٤/٣/٢٨
+المنهاج الخاص بقرار تجديد الاعتراف ببرنامج الإجازة الجامعية (بكالوريوس) في "إدارة الأعمال" في كلية إدارة الأعمال في جامعة المعارف، في ما خص الطلاب المنتسبين إلى السنة الأولى من هذا البرنامج في الاختصاص المذكور اعتباراً من العام الجامعي ٢٠١٥-٢٠١٦.
+
+الدرجة | مجموع الوحدات الدراسية | المقرر بالصحة | الفصل الدراسي(أ) | المقررات الممهدة والمقرزمة (Cn)(أ) | ملاحظات
+الاسم | الرمز | عدد الأرصدة
+مواد عامة إلزامية ضمن متطلبات الجامعة | 21 | Business Software Applications | MIT 200 | 3 | الأول
+English Communication Skills I | ENG 201 | 3 | الأول
+English Communication Skills II | ENG 202 | 3 | الثاني | ENG 201
+English for Business | ENG 210 | 3 | الثالث | ENG 202
+Cultural Studies | CST 200 | 3 | الرابع
+Arabic Communication Skills I | ARB 201 | 3 | الأول
+مواد إلزامية مشتركة في الاختصاص ضمن متطلبات الكلية | 36 | Business Math | MAT 210 | 3 | الأول | Co. ENG 201
+Financial Accounting I | ACC 210 | 3 | الثاني | ACC 210
+Financial Accounting II | ACC 212 | 3 | الرابع | MGT 201
+Business Law and Legal Processes | BUS 310 | 3 | الخميس | MGT 201 STP 310
+Microeconomics | ECO 201 | 3 | الثاني | Co. ENG 201
+Macroeconomics | ECO 202 | 3 | الثالث | Co. ENG 201
+Fundamentals of Finance | FIN 310 | 3 | الثالث | ACC 212
+Management Principles | MGT 201 | 3 | الثاني | ENG 201
+Information Systems and Technology | MIT 300 | 3 | الثالث | MGT 201
+Marketing Principles | MKT 201 | 3 | الثاني | ENG 201
+Business Statistics and Probability | STP 210 | 3 | الثاني | MAT 210
+Intermediate Business Statistics | STP 310 | 3 | الرابع | STP 210
+International Accounting | ACC 430 | 3 | الخامس | ACC 212
+مواد إلزامية في تركيز: "إدارة الأعمال الدولية" | 27 | Cross-Cultural Management | BUS 315 | 3 | الرابع | ENG 201 MGT 201
+Business Ethics | BUS 330 | 3 | الخامس | MGT 201
+International Business | BUS 360 | 3 | الثالث | MGT 201 FIN 310 MKT 201
+Professional Training Practice | BUS 497 | 3 | سادس
+Final Project | BUS 499 | 3 | سادس
+International Economics | ECO 410 | 3 | الخامس | ECO 201 ECO 202
+International Finance | FIN 450 | 3 | سادس | ECO 202 FIN 310
+International Marketing | MKT 390 | 3 | الخامس | MKT 201
+Organizational Effectiveness | HRM 310 | 3 | الرابع | MGT 201
+Human Resources Management | HRM 320 | 3 | الثالث | MGT 201
+مواد إلزامية في تركيز: "إدارة الموارد البشرية" | 27 | Human Resources Development | HRM 340 | 3 | الرابع | HRM 320 MGT 330
+Employee and Labor Relations | HRM 360 | 3 | الخامس | HRM 320 MGT 330
+Training and Development | HRM 410 | 3 | الخامس | HRM 320 MGT 330
+Human Resources Planning | HRM 420 | 3 | الخامس | HRM 320 MGT 330
+Human Resources Information Systems | HRM 430 | 3 | سادس | HRM 320 MGT 330 MIT 300
+Professional Training Practice | HRM 497 | 3 | سادس
+Final Project | HRM 499 | 3 | سادس

@@ -1,0 +1,21 @@
+٢٩٦٠ الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+TSG stands for Test Signal Generator. The pre-amplifier has three selectable inputs, A, B and C. Input C is contained within the pre-amp package itself. The TSG has two differential outputs: Output 2 is buffered and has a much higher output drive capability than Output 1 but is of lower fidelity. It should be noted that there is one TSG for all the four channels within an AU and the switches for the two geophone channels act independently from the switches for the two hydrophone channels.
+4.1. DC Offset & Noise
+The noise and DC offset testing is done via Input C, where 800 ohm of resistance is switched in circuit. For this testing, the TSG is placed in power down mode.
+Table 2 shows the instrument test specifications for the noise/DC offset testing at the various production gain settings. It should be noted that in production the digital high pass filter (either 0.75Hz or 3Hz) completely removes the DC offset.
+
+Preamp gain (dB) | Noise (µV) | DC Offset (mV)
+0 | 2.5 | 60
+6 | 1.8 | 33
+12 | 1.0 | 18
+18 | 0.9 | 10
+24 | 0.8 | 5
+
+Table 2. The instrument test specifications for the noise/DC offset testing.
+4.2. Gain Accuracy
+The gain accuracy test is performed via Input B and TSG Output 1. A 31.25Hz sine wave is used at a level consistent with the selected gain to produce a signal close to full scale. This test is performed with no low-cut filter. Table 3 shows the instrument test specifications for the gain accuracy test at the various production gain settings, after removal of the DC component.
+
+Preamp gain (dB) | Expected signal (mV RMS) | Specification
+0 | 1536 | +/- 1%
+
+Table 3: The instrument test specifications for the gain accuracy test at the various production gain settings, after removal of the DC component.

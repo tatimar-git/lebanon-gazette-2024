@@ -1,0 +1,45 @@
+الجريدة الرسمية - العدد ١٨ - ٢٠٢٤/٥/٢
+٩١٣
+
+122 | REFRIGERATED CENTRIFUGE | NR | 1
+123 | INCUBATOR, BLOOD BANK, FREE STANDING | NR | 2
+124 | BLOOD BAG HEAT SEALER | NR | 2
+125 | REFAIGERATORS, BLOOD BANK | NR | 5
+126 | PLASMA FREEZER | NR | 5
+127 | PLASMA EXTRACTOR | NR | 2
+128 | PLASMA THOWING BATH | NR | 2
+129 | BLOOD BANK CENTRIFUGE | NR | 2
+130 | BLOOD BANK, BLOOD TESTING SYSTEM | NR | 2
+131 | ROCKERS, BLOOD BAG | NR | 2
+132 | Apheresis Solution | NR | 2
+133 | Binocular microscope for cross matching | NR | 2
+134 | Micropipette set | NR | 5
+135 | Body Scale | NR | 1
+135 | Timer | NR | 5
+137 | ANALYZER, BLOOD GAS | NR | 5
+138 | SEROLOGICAL ROTATOR | NR | 2
+139 | BALANCE | NR | 2
+140 | Lab Shaker with incubator | NR | 2
+141 | MICROCENTRIFUGE | NR | 2
+142 | MICROSCOPES, LABORATORY, LIGHT | NR | 2
+143 | Clean Berxh | NR | 2
+144 | Aerobic incubators | NR | 2
+145 | Water treatment | NR | 2
+145 | HOT PLATE STIRRER | NR | 2
+147 | Autoclave, 20 L | NR | 2
+148 | MICROSCOPE, ROUTINE WORK | NR | 2
+149 | Fume Hood | NR | 2
+150 | Vortex | NR | 2
+151 | Counter, colony | NR | 2
+152 | Bunsen Burner | NR | 2
+153 | FLUORESCENCE MICROSCOPE | NR | 2
+154 | BIOSAFETY CABINET, CLASS II, B2 | NR | 2
+155 | CO2 Incubator | NR | 2
+156 | Ph meter | NR | 1
+157 | Blood culture system | NR | 2
+158 | Coagulation analyser | NR | 2
+159 | ESA Unit | NR | 2
+160 | AUTOMATED ELECTROPHERISIS SYSTEM | NR | 2
+161 | Roller, tube | NR | 2
+162 | ORBITAL SHAKER | NR | 2
+163 | WATER BATH | NR | 2

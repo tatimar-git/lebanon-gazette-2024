@@ -1,0 +1,38 @@
+٢٩٧٠ الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+image here
+Figure 15: Example of an online FET display
+The Call Launcher Help
+Sequence Information
+Project
+Production Line
+Line Name
+Sequence
+Sequence Information
+Session Mode
+Log Recorder
+Log Status
+Log Component
+External Information
+Debug Line Definition
+Environment: Win32, Bose
+Care Comments
+System: Linux
+Kit: Automation
+Scripture Outputs
+Channel 1/2/3
+Kit: Ports
+EBS STX2 Transposition
+OUTLINE 1
+Export Log
+Types Complete
+OUTLINE 2
+Export Log
+Types Complete
+History (items) : 10 Update Table (exec) : 1 Divided Maps: Pause View PDF
+Time
+09:00:00
+09:00:00
+09:00:00
+Figure 16: gAS control GUI.
+5.7. Example Near Real Time QC Displays
+Section 5.4 refers to displays visible to the geophysicist in near real time using the Viper system. The following images give examples of screens that are associated with these QC processes.

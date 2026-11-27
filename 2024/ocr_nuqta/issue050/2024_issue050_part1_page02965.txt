@@ -1,0 +1,17 @@
+الجريدة الرسمية - العدد ٥٠ - ٢٠٢٤/١٢/١٢
+٢٩٦٥
+■ Stacked and layered auxiliary traces from each sub-array (active and passive) to investigate any possible source problems, including auto-fires and air-leaks (Figure 20 and 21).
+■ Source comparisons from RMS signal windows with a rolling average applied (Figure 22).
+■ RMS areal attributes: after manipulation of the selected seismic data, the RMS values are computed and consist of a single value for each window-streamer-shot combination containing processed navigation information. Data can then be loaded and binned into an RMS areal format producing displays of the ambient and signal windows along with a signal to noise ratio (Figure 23).
+■ Display of CDP gathers from selected stacking streamer (Figure 24).
+■ 2D brute stack display for selected stacking streamer for hydrophone channels only. The brute stack consists of 1 CMP line per sail line, rotating through sources/cables on a line-by-line basis. 2D P-UP stack screen display for selected stacking streamer (for selected lines only) (Figure 25).
+■ Navmerge integrity check: Once the P1 navigation data is generated, a sample dataset of the seismic data is merged with the navigation data. This is then displayed to assess the quality of the merge by comparison of the predicted arrival time from the navigation derived offsets with those seen on the seismic data at the onset of the first arrival energy (direct travel path between the active source and the streamers). Two methodologies are utilized: linear moveout (LMO) and navigation derived offset (NDC) vs seismic derived offset (SDO). They are both equally acceptable (Figure 26).
+■ Single trace cube: TGS produces a common offset (single trace) cube to remove the possibility of NMO error across the spread. This QC step checks for anomalies and miss-ties between sail lines. Once loaded to the cube, inline, crossline and time-slice displays are viewed in holoSeis™ to check for potential navigation merge errors (Figures 27-29).
+■ holoSeis™ displays of 3D common offset cube and associated attributes to investigate the continuity of attributes across the survey area as well as across adjacent groups and adjacent streamers (Figures 30-31).
+■ Display of anything warranting further attention.
+■ Nav-merged internal format SIO data with edits flagged in the headers will be created for each sequence and passed to the SPArk system for marginal line acceptance confirmation (SI, turn noise, cross feed, barnacles, etc.) and the creation of the field deliverables (H-RAW, G-RAW SEG-Y).
+5.5. Onshore Interaction
+All vessels utilize the Telenor NORSat-B satellite communications system, which operates between 512 Kb/s and 2 Mb/s depending on requirements of data transfer, but additional bandwidth can be provided (at additional cost). Further details will be supplied on award of the contract.
+Along with the transfer of certain data products to a client FTP site, this also allows transfer of test datasets between the vessel and a TGS Imaging centre, enabling ongoing parameter testing at the processing center while data continues to be acquired and processed in the on-board environment.
+5.6. Example Real Time QC Displays
+Section 5.3 refers to displays visible to the observers and geophysicists while online. The following images give examples of these displays.
